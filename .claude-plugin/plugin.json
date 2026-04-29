@@ -1,0 +1,21 @@
+{
+  "name": "fq-research-agent",
+  "displayName": "FQ Research Agent",
+  "version": "0.1.0",
+  "description": "Secondary research agent for Fifth Quadrant. Ingests a brief, runs the full research pipeline, produces a structured report. Supports market-intelligence and systematic-review modes.",
+  "author": {
+    "name": "Fifth Quadrant",
+    "url": "https://fifthquadrant.com.au"
+  },
+  "license": "Proprietary",
+  "skills": [
+    "skills/fq-research"
+  ],
+  "agents": [
+    "agents/research-search.md",
+    "agents/research-extract.md",
+    "agents/research-synthesise.md",
+    "agents/research-scenarios.md",
+    "agents/research-report.md"
+  ]
+}

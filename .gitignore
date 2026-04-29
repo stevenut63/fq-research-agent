@@ -1,0 +1,16 @@
+# Local outputs — work product lives in Box, not in the repo
+outputs/
+documents/
+briefs/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local environment
+.env
+.env.local
