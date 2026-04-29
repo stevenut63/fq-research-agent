@@ -37,9 +37,11 @@
 
 ## Pre-loaded Documents
 
-[List any purchased or provided documents placed in `documents/[brief-name]/` before running the pipeline. Examples: "IBISWorld Australian Lubricants Industry 2025", "ESOMAR Panorama 2024". The agent will read these first and use them as the primary evidence base before supplementing with web searches.]
+[List any purchased or provided documents available in Box for this engagement. The agent reads documents in the engagement's Box folder (and its subfolders) first and uses them as the primary evidence base before supplementing with web searches. You can either:
+1. List specific Box file IDs or paths below, or
+2. Leave the list empty and let the agent scan the engagement folder itself — it will surface candidate pre-loaded documents for your confirmation before starting the search phase.]
 
-- [filename]: [Description and relevance]
+- [Box path or file ID]: [Description and relevance]
 
 ---
 

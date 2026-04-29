@@ -49,13 +49,16 @@ The desk research feeds a Decision Gate Workshop before Phase 2 qualitative fiel
 
 ## Pre-loaded Documents
 
-Place purchased reports in `documents/valvoline-power-gen/` before running the pipeline. Recommended purchases:
+Pre-loaded documents are read from the engagement folder in Box (`3. Proposals/FY 2026/Valvoline Power Gen/`) and its subfolders. The agent will scan the folder for candidates and surface them for confirmation before starting the search phase.
 
+Recommended materials to have in place before running the pipeline:
+
+- Prior FQ desk research on this engagement (e.g. `Valvoline_PowerGen_Desk_Research_Summary_Report.docx` and related Nov 2025 outputs in `Archive/` and `Support documents AI generated/Context and initial desk research/`)
 - IBISWorld: *Oil and Gas Extraction in Australia* and *Industrial Machinery and Equipment Wholesaling* reports
 - IBISWorld: Any available report on *Lubricant Manufacturing in Australia*
 - Any Valvoline-provided internal market data or Southeast Asia study outputs (these are client-supplied, not purchased)
 
-The agent will read and extract from these first. Web searches will then fill gaps not covered by the purchased material.
+The agent reads and extracts from these first. Web searches then fill gaps not covered by the pre-loaded material.
 
 ---
 

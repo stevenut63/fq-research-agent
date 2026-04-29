@@ -60,11 +60,14 @@ Goal: produce a Box folder with ID `WORKSPACE_FOLDER_ID` that downstream agents 
 
 Use `search_folders_by_name` for terms that should match the brief's engagement folder. For example, for the Valvoline brief the search term is *"Valvoline Power Gen"*. Try the brief's title-case engagement name first; fall back to the first 2–3 words of the brief title.
 
-- **One match** → use that folder's ID as `ENGAGEMENT_FOLDER_ID`.
-- **Multiple matches** → present them to the user with their full Box paths (use `get_folder_details` if you need path context) and ask which one. Common case: there's a current-FY active folder and one or more archive folders.
-- **No match** → ask the user whether to:
-  - (a) Create a new engagement folder somewhere they specify, or
-  - (b) Use a default top-level location: `Fifth Quadrant/Operations/Research Agent/`. If using (b) and the parent doesn't exist, create the chain step by step (see 2.3).
+**Box keyword search returns substring matches as well as exact matches.** Apply this preference order to the results:
+
+1. **Exact name match** (case-insensitive) → use it as `ENGAGEMENT_FOLDER_ID` without asking. (E.g. searching *"Valvoline Power Gen"* returns 10 hits; one is exactly *"Valvoline Power Gen"*, the rest are just *"Valvoline"* — use the exact one.)
+2. **No exact match, but one prefix match** (folder name starts with the search term) → use it.
+3. **Multiple plausible matches with no clear winner** → present the candidates to the user with their full Box paths (use `get_folder_details` if you need path context) and ask which one. Common case: a current-FY active folder and one or more archive folders.
+4. **No match at all** → ask the user whether to:
+   - (a) Create a new engagement folder somewhere they specify, or
+   - (b) Use a default top-level location: `Fifth Quadrant/Operations/Research Agent/`. If using (b) and the parent doesn't exist, create the chain step by step (see 2.3).
 
 ### 2.2 Create the workspace folder structure
 
@@ -78,11 +81,27 @@ Box's `create_folder` requires a `parent_folder_id`, not a path. So work down th
 
 Use `upload_file` to write the brief as `00-brief.md` into `WORKSPACE_FOLDER_ID`. (If the original was DOCX/PDF, you've already extracted it to text in Step 1 via `get_file_content`; save the markdown rendition as the canonical version. The user's original DOCX/PDF is still in its original Box location — no need to duplicate the binary.)
 
-### 2.4 Confirm to the user
+### 2.4 Confirm the workspace to the user
 
-Tell the user the workspace path (the Box web URL is helpful — `https://fifthquadrant.box.com/folder/[WORKSPACE_FOLDER_ID]`) and proceed.
+Tell the user the workspace path (the Box web URL is helpful — `https://fifthquadrant.app.box.com/folder/[WORKSPACE_FOLDER_ID]`).
 
-**Pass `WORKSPACE_FOLDER_ID` and `EXTRACTS_FOLDER_ID` to every sub-agent.**
+### 2.5 Surface candidate pre-loaded documents
+
+Before invoking the search agent, scan the engagement folder (and its key subfolders, e.g. `Archive/`, `Support documents AI generated/`, any `Context and initial desk research/`) using `list_folder_content_by_folder_id`. Build a candidate list of pre-loaded documents — DOCX, PDF, XLSX, PPTX — that look relevant to the brief's research questions.
+
+Present the list to the user:
+
+> *"I found N candidate pre-loaded documents in the engagement folder:*
+> *- [filename 1] (modified [date])*
+> *- [filename 2] (modified [date])*
+> *- ...*
+> *I'll use these as the primary evidence base before running web searches. Add or remove any?"*
+
+Wait for the user's adjustments. The final list (with Box file IDs) is what gets passed to the search agent.
+
+If the brief lists specific Box paths/file IDs in its Pre-loaded Documents section, treat those as the starting list and only ask the user to confirm/extend.
+
+**Pass `WORKSPACE_FOLDER_ID`, `EXTRACTS_FOLDER_ID`, and the confirmed pre-loaded document list to every sub-agent.**
 
 ---
 

@@ -40,7 +40,7 @@ Artificial intelligence is reshaping how data is collected, analysed, and interp
 
 ## Pre-loaded Documents
 
-[Place any purchased reports or industry materials in `documents/future-of-research-2030/` before running the pipeline. Examples that would be valuable here:]
+[Place any purchased reports or industry materials in the engagement's Box folder before running the pipeline. The agent will scan the folder and surface candidates for confirmation before the search phase. Examples that would be valuable here:]
 
 - ESOMAR Panorama (most recent edition)
 - Greenbook GRIT Report (most recent edition)

@@ -1,7 +1,7 @@
 {
   "name": "fq-research-agent",
   "displayName": "FQ Research Agent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Secondary research agent for Fifth Quadrant. Ingests a brief, runs the full research pipeline, produces a structured report. Supports market-intelligence and systematic-review modes.",
   "author": {
     "name": "Fifth Quadrant",
