@@ -108,7 +108,7 @@ Suggested structure:
 
 ## Output
 
-Write `04-synthesis.md` to the Box workspace using `upload_file` (or `upload_file_version`).
+Write `04-synthesis.md` to the Box workspace. Use `upload_file` on a fresh run. If `upload_file` returns an "already exists" error (re-run scenario), fall back to `upload_file_version` with the existing file's ID — look up via `list_folder_content_by_folder_id` on `WORKSPACE_FOLDER_ID`.
 
 ## Return to orchestrator
 

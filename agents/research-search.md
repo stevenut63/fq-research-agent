@@ -88,7 +88,7 @@ Write **`02-source-list.md`** to the Box workspace. Contents:
 - For each: title, publisher, year, URL or Box path, source type, one-sentence contribution note.
 - Pre-loaded documents listed first, clearly tagged as "Pre-loaded".
 
-Use `upload_file` (or `upload_file_version` if updating) to write these to Box.
+Use `upload_file` to write these to Box on a fresh run. If the orchestrator has invoked you for a re-run and the file already exists, `upload_file` will return an error — fall back to `upload_file_version` with the existing file's ID (look it up via `list_folder_content_by_folder_id` on `WORKSPACE_FOLDER_ID`).
 
 ## Return to orchestrator
 
