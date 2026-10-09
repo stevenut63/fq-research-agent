@@ -10,20 +10,20 @@
    "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously https://theanalyst.com/articles/premier-league-match-predictions (Matchday 6 picks, via WebSearch summary)"
   },
   "odds": {
-   "h": 2.75,
-   "d": 3.45,
+   "h": 2.8,
+   "d": 3.5,
    "a": 2.5,
-   "source": "SportsGambler 10-10-2026 preview (+175/+245/+150), decimal; implied ~34.5/27.5/38.0 after margin. Sportytrader best 1xbet 2.90/3.64/2.53; Dimers Fulham +163, Ipswich +186; O/U 2.5 -122/+117 (Dimers)"
+   "source": "Statz.ai preview (8-9 Oct 2026): Ipswich 2.80 and draw 3.50 (Ladbrokes), Fulham 2.50 (bet365); implied ~34/27/39 after margin. Sportytrader best 2.80/3.55/2.37 (1xbet 2.90/3.64/2.53). Essentially unchanged from earlier prices."
   },
   "cs_odds_top3": null,
-  "team_news": "Ipswich: Abdul Fatawu suspended (red card at Everton); Jack Taylor doubtful (knee); McAteer back in training, bench option. Likely 4-2-3-1 with Enciso at No.10, Emersonn up front, Maeda/Philogene contest right wing. Fulham: Tom Cairney out/doubtful (knee); Kenny Tete doubtful (concussion), Castagne to continue at RB. Likely XI Leno; Castagne, Andersen/Affengruber, Bassey, Robinson; Berge, Charles; Iwobi, King, Bobb; Gonzalo Garcia. Fulham manager Alvaro Arbeloa still seeking first PL win (6th attempt) and is among sack-race favourites (~3/1).",
+  "team_news": "As of Fri 9 Oct 2026. Ipswich (Gary O'Neil): squad fully fit after the international break apart from Abdul Fatawu, suspended (one-match ban for the red card v Everton). Previously injured players, including Jack Taylor, available; Palacios expected to feature despite a long trip back from Argentina. Philogene or Maeda to replace Fatawu on the right; Diop and O'Shea likely at centre-back. O'Neil: Fulham 'are good... do not have as many points as their performances would suggest'. Fulham (Alvaro Arbeloa): 'at the moment, everybody is fit and available'. Kenny Tete back from concussion ('much better'). Tom Cairney back in training but 'now is a little bit soon for him'. Antonee Robinson is the one doubt (ankle knock in training): Arbeloa expects him to be available but has not decided whether he can start or last 90 minutes ('Right now I can't answer'). Arbeloa still seeking a first PL win.",
   "form_notes": "Ipswich 11th, 6 pts (W2 D0 L3, GF7 GA11); home W 2-1 v Sunderland, L 0-2 v Liverpool; lost 0-1 at Everton last time. Fulham 19th, 2 pts (W0 D2 L3, GF5 GA8) but unbeaten in last two (0-0 at Liverpool, 1-1 v Man Utd). Ipswich games average 3.6 goals; Ipswich have not kept a clean sheet in eight (one preview).",
   "xg_notes": "Ipswich 7 goals from 6.47 xG, conceded 11 from 8.55 xGA over 5 games (one preview; Sportytrader gives ~9.0 xGA). Fulham underperforming: ~3.3 goals below xG (5 goals from ~8.3 xG), 1.50 xG v Man Utd; xGA ~9.1. Both in bottom five for xG allowed. bet365 preview: Ipswich 9th, Fulham 8th for xG.",
   "pundits": "Chris Sutton (BBC, via Naija News): 1-1. Dimers model: Fulham 42.3% fav, 1-1 most likely score. Stats Insider: Fulham 42.6/D 25.4/Ipswich 32.0, best bet Under 2.5. Football Whispers 2-2; footballpredictions.com and The Hard Tackle 2-1 Ipswich; bet365 tips Ipswich 7/4; Forebet 1-0 Ipswich.",
   "my_probs": {
-   "h": 0.33,
+   "h": 0.34,
    "d": 0.34,
-   "a": 0.33
+   "a": 0.32
   },
   "primary_score": "1-1",
   "alt_scores": [
@@ -46,8 +46,15 @@
    "https://thefalse9.com/2026/10/ipswich-fulham-predicted-lineups-arbeloa-sack-race.html",
    "https://og.com/learn/ipswich-fulham-10-26-prediction",
    "https://footballwhispers.com/blog/ipswich-town-vs-fulham-prediction-10-10-2026/",
-   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-  ]
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://www.suffolknews.co.uk/ipswich/sport/everyone-is-fit-town-in-good-shape-for-fulham-s-visit-9486410/",
+   "https://www.vavel.com/en/football/2026/10/09/premier-league/1274553-o-neil-feels-fulham-do-not-have-as-many-points-as-their-performances-would-suggest.html",
+   "https://www.fulhamish.co.uk/p/from-the-press-box-arbeloa-to-make",
+   "https://www.aol.co.uk/articles/alvaro-arbeloa-confirms-antonee-robinson-101616000.html",
+   "https://fantasyfootballscout.co.uk/2026/10/09/fpl-gameweek-6-team-news-fridays-live-injury-updates-3",
+   "https://statz.ai/news/19722147-ipswich-vs-fulham-predictions-betting-tips"
+  ],
+  "news_update_2026_10_10": "Friday's press conferences confirmed rather than changed the picture. Ipswich, now under Gary O'Neil, have a fully fit squad apart from the already-known Fatawu suspension, so Jack Taylor (previously doubtful) is available, a small squad-depth gain. Fulham are also almost fully fit: Tete returns from concussion, Cairney is still not ready (as assumed), and the only new issue is an ankle knock for Antonee Robinson, their first-choice left-back, who is expected to be available but may start on the bench. Prices have not moved (about 2.80/3.50/2.50). I moved one point from Fulham to Ipswich (33/34/33 to 34/34/32) to reflect Ipswich's clean bill of health and the Robinson doubt; this is a small adjustment because neither change involves a nailed-on key starter being ruled out. The draw remains joint favourite with the home win, so 1-1 stays the primary score."
  },
  {
   "home": "Aston Villa",
@@ -60,22 +67,22 @@
    "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously https://theanalyst.com/articles/premier-league-match-predictions and https://www.astonvillanews.co.uk/match/supercomputer-predicts-outcome-of-aston-villa-vs-brentford-in-premier-league"
   },
   "odds": {
-   "h": 2.78,
-   "d": 3.4,
+   "h": 2.75,
+   "d": 3.6,
    "a": 2.67,
-   "source": "Composite: Dimers Villa +178 / Brentford +167; draw 3.40 displayed (best 3.60 Betfred) per Wincomparator; bet365 Brentford 8/5 (2.60). Implied ~35/28/37. O/U 2.5: Dimers -133/+127 (over ~54%)."
+   "source": "Sportytrader (8-9 Oct 2026), 1xbet 2.75/3.60/2.67; other books Stake 2.65/3.55/2.48, Melbet 2.65/3.44/2.60, 22bet 2.66/3.46/2.58; William Hill Villa 13/8 (2.63). Implied ~36/27/37: Villa have shortened slightly from ~2.78 and the market is now roughly level."
   },
   "cs_odds_top3": [
    "1-2 @ 8/1 (LiveScore preview)"
   ],
-  "team_news": "Villa: Amadou Onana (knee/ACL) and Ian Maatsen long-term absentees; Pau Torres (thigh), Marco Bizot (back) and Alysson touch and go; Matty Cash possibly doubtful; summer signing Leon Goretzka to be assessed. TNT predicted XI: Suzuki; Wan-Bissaka, Lindelof, Mings, Ruggeri; Kamara, Gomes; McGinn, Buendia, Manzambi; Jackson. Brentford: Mikkel Damsgaard out/major doubt (ankle, returned early from Denmark duty); Nathan Collins doubtful (calf); Mathias Jensen doubtful. Predicted XI: Kelleher; Kayode, Schuster, Ajer, Lewis-Potter; Sangare, Yarmoliuk, Janelt; Anthony, Thiago, Schade.",
+  "team_news": "As of Fri 9 Oct 2026. Villa (Unai Emery, Friday presser): Amadou Onana (knee) and Ian Maatsen out but 'progressing very well'; Leon Goretzka (knee) out for Brentford though back in group training; Modou Keba Cisse out, training next week; teenager Brian Madjo back in training and could make a first PL squad. Pau Torres (hamstring) nearing fitness after playing in a friendly, still listed doubtful; Marco Bizot (back) doubtful; Matty Cash (dead leg/knock on international duty) reports conflict, one says Emery ruled him out, bet365 expects him to start. Brentford (Keith Andrews, Friday): 'Antoni Milambo and Josh [Dasilva] definitely won't be involved tomorrow'; Mikkel Damsgaard (ankle, from Denmark duty) and Kaye Furo out. Captain Nathan Collins (calf), Mathias Jensen and Sepp van den Berg (groin) 'getting closer to a return' after using the break to get up to speed: Sports Mole lists them doubtful, other previews list Collins fit. Dango Ouattara doubtful (illness).",
   "form_notes": "Villa 16th, 4 pts (W1 D1 L3, GF4 GA9) but trending up before the break: won 3-2 at Spurs plus Champions League and Carabao Cup wins. Home league record poor (L 0-1 Arsenal, L 1-2 Forest). Brentford 4th, 9 pts (W2 D3 L0, GF10 GA4), unbeaten in seven in all comps, scored in every league game, but no away win yet (D 1-1 Leeds, D 2-2 Bournemouth).",
   "xg_notes": "Brentford 9.90 xG after five (3rd), match xGA ~0.6-1.75 (Fantasy Football Scout); FootyStats ~1.71 xG for / 1.53 xGA per game, worse away. No 2026-27 Villa xG figures found.",
   "pundits": "Chris Sutton (BBC, via Naija News): Villa 2-1. TNT Sports, LiveScore, SportsGambler: Villa 1-2 Brentford. bet365 best bet Brentford 8/5. Dimers model: Villa 41.8%, 1-1 most likely score (11.7%). Squawka: tight, low-scoring. Jones Knows column for this fixture not confirmed for MW6 (search returned an older-season column) so not used.",
   "my_probs": {
-   "h": 0.4,
+   "h": 0.39,
    "d": 0.29,
-   "a": 0.31
+   "a": 0.32
   },
   "primary_score": "2-1",
   "alt_scores": [
@@ -99,8 +106,17 @@
    "https://www.brentfordfc.com/en/news/match-previews-aston-villa-v-brentford-premier-league-10-10-2026",
    "https://thehardtackle.com/round-up/2026/10/09/aston-villa-vs-brentford-preview-prediction-probable-lineups-tactics-team-news-key-stats",
    "https://www.fantasyfootballscout.co.uk/2026/10/04/the-fpl-half-term-report-brentford-2",
-   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-  ]
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://www.avfc.co.uk/news/2026/october/09/prematch-team-news-for-brentford-encounter/",
+   "https://www.vavel.com/en/football/2026/10/09/aston-villa/1274543-emery-hails-brentford-s-sustained-development-under-keith-andrews.html",
+   "https://www.brentfordfc.com/en/news/first-team-news-aston-villa-v-brentford-premier-league-10-10-2026",
+   "https://www.sportsmole.co.uk/football/aston-villa/injury-news/team-news/aston-villa-vs-brentford-injury-suspension-list-predicted-xis_606425.html",
+   "https://news.bet365.com/en-gb/article/aston-villa-v-brentford-predicted-lineups-and-team-news/2026100913215289264",
+   "https://www.fantasyfootballscout.co.uk/2026/10/09/fpl-gameweek-6-team-news-fridays-live-injury-updates-3",
+   "https://www.sportytrader.com/en/betting-tips/aston-villa-brentford-377703/",
+   "https://news.williamhill.com/football/premier-league-predictions-and-betting-odds-for-saturday-10th-october-2026/"
+  ],
+  "news_update_2026_10_10": "Villa's absentees are as expected (Onana, Maatsen, Goretzka out), with Pau Torres closer to fitness but still a doubt, Bizot doubtful and conflicting reports on Matty Cash, so the Villa back line remains slightly uncertain. Brentford's Damsgaard absence was already priced in, and Milambo and Dasilva are rotation players; the more relevant change is that captain Nathan Collins (and Jensen) are described by Andrews as close to a return, which is better for Brentford than my previous assumption that Collins was doubtful. The market has drifted slightly toward Villa (13/8 at William Hill), which partly offsets this. Net, I moved one point from Villa to Brentford (40/29/31 to 39/29/32): a small move because Collins is still not confirmed and Torres/Cash could yet start. Villa remain my narrow pick, so 2-1 stays primary."
  },
  {
   "home": "Manchester United",
@@ -113,22 +129,22 @@
    "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously https://theanalyst.com/articles/man-utd-vs-tottenham-prediction-premier-league-10-2026 (54.1% home); draw/away via https://tothelaneandback.com/2026/10/09/opta-supercomputer-predicts-manchester-united-victory-tottenham-hotspur/ . Another outlet quoted 56/22.5/21.5, so treat this as the most-cited set, not a confirmed one."
   },
   "odds": {
-   "h": 1.67,
-   "d": 4.2,
-   "a": 4.33,
-   "source": "Racing Post preview (Man Utd 4-6, draw 16-5, Spurs 100-30 Betfair); implied ~56/22/22. Oddspedia Man Utd 1.64; William Hill 7/10."
+   "h": 1.72,
+   "d": 4.28,
+   "a": 4.52,
+   "source": "VegasOdds (9 Oct 2026) Man Utd -138 / draw +328 / Spurs +352, decimal; implied ~56/22/21. Consistent with Bettingnews -140/+338/+346, Last Word on Sports 7/10, 3/1, 16/5, Dimers best Man Utd 1.74 / Spurs 4.76, Dailysports Man Utd 1.65. Spurs have drifted slightly from 4.33."
   },
   "cs_odds_top3": [
    "2-0 @ +850 (SportsGambler)"
   ],
-  "team_news": "Man Utd: Ugarte out long-term; Sesko out (shin); Dorgu and Mazraoui injured on international duty; Rashford, Mainoo and Diallo doubts; De Ligt close to return/bench at most; Carlos Baleba fit for debut. Spurs: Pedro Porro out (hamstring); Xavi Simons and Odobert long-term absentees; Kulusevski doubt; Mudryk working back from ankle; Van de Ven and Van Hecke expected to pair at CB (Van de Ven forced off on 4 Oct). Managerial pressure on both sides: Spurs bottom and winless under Roberto De Zerbi (chief exec Venkatesham gave a vote of confidence); Carrick under pressure with United winless in three league games (D2 L1).",
+  "team_news": "As of Fri 9 Oct 2026. Man Utd (Michael Carrick, Friday presser): Benjamin Sesko out ('won't be ready', shin recurrence); Patrick Dorgu out 'for probably a number of weeks' (hamstring, Denmark duty); Noussair Mazraoui doubt ('took a knock... not quite right yet', to be assessed); Manuel Ugarte long-term out (knee ligament surgery, July). Marcus Rashford, Kobbie Mainoo and Amad Diallo have each 'done a little bit of training' since the break, so doubts or bench at most; Matthijs de Ligt (back) close but no assurance given. Carlos Baleba fit and expected to start alongside Tielemans; Harry Amass or Lisandro Martinez likely at left-back. Spurs (Roberto De Zerbi): Pedro Porro out (hamstring, possible return 19 Oct); Kulusevski (knee) travels with the squad but not available; Mudryk (ankle, early Nov), Xavi Simons (knee, 2027) and Odobert (knee) out. Van de Ven and Van Hecke both fit and available after international knocks. James Maddison available but 'lost three or four days' of training, so unlikely to start.",
   "form_notes": "Man Utd 12th, 5 pts (W1 D2 L2, GF8 GA8); home W 5-2 v Ipswich, L 0-1 v Man City; last two D 2-2 at Everton, D 1-1 at Fulham. Spurs 20th, 2 pts (W0 D2 L3, GF2 GA8); blanked in four of five league games, lost 2-3 at home to Villa last time.",
   "xg_notes": "Man Utd 1st for shots (113) and 4th for xG (9.89) but third-worst xG per non-penalty shot (low-quality volume). Spurs 5.0 xG (18th), 2 goals; 71 shots, 19 on target; 150 opposition-box touches (6th); 8 conceded from 7.86 xGA. H2H (context only): the Feb 2026 Opta preview said United had not beaten Spurs in six league meetings (D3 L3); Feb 2026 result not checked; Mbeumo 6 goals + 1 assist in last six PL apps v Spurs.",
   "pundits": "Chris Sutton (BBC): Man Utd 2-1 ('Spurs so flaky under De Zerbi'). Alan Shearer: draw. Racing Post best bet: Spurs 100-30. Stats Insider: 53.3/22.0/24.7, value on Spurs. SportsGambler: 2-0 Man Utd. Football365/Hard Tackle-type previews split between 1-1 and 2-1.",
   "my_probs": {
-   "h": 0.5,
+   "h": 0.51,
    "d": 0.27,
-   "a": 0.23
+   "a": 0.22
   },
   "primary_score": "2-0",
   "alt_scores": [
@@ -152,7 +168,18 @@
    "https://sports.yahoo.com/articles/roberto-zerbi-gets-vote-confidence-093047514.html",
    "https://www.statsinsider.com.au/news/manchester-united-vs-tottenham-prediction-and-tips-11-october-2026",
    "https://tothelaneandback.com/2026/10/10/chris-sutton-manchester-united-vs-tottenham-prediction/",
-   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-  ]
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://thepeoplesperson.com/2026/10/09/every-word-of-michael-carricks-tottenham-hotspur-embargoed-pre-match-press-conference-318562/",
+   "https://readmanutd.com/2026/10/09/michael-carrick-press-conference-tottenham-injury-news/",
+   "https://www.sportsmole.co.uk/football/man-utd/injury-news/news/out-for-a-number-of-weeks-carrick-delivers-man-utd-team-news-ahead-of-spurs-showdown_606553.html",
+   "https://hayters.com/carrick-confirms-man-utd-injury-blows-as-he-gives-updates-on-several-players-ahead-of-spurs-game/",
+   "https://lastwordonsports.com/football/2026/10/09/manchester-united-vs-tottenham/",
+   "https://tothelaneandback.com/2026/10/10/roberto-de-zerbi-tottenham-squad-fitness-update-ahead-manchester-united-trip/",
+   "https://sports.yahoo.com/articles/dejan-kulusevski-travel-matchday-squad-170004680.html",
+   "https://www.sportsmole.co.uk/football/spurs/injury-news/injuries-and-suspensions/van-de-ven-porro-van-hecke-updates-spurs-injury-suspension-list-vs-man-united_606369.html",
+   "https://www.vegasodds.com/predictions/soccer/epl-man-united-vs-tottenham-picks-odds-betting-analysis-oct-10/",
+   "https://www.bettingnews.com/articles/soccer/manchester-united-tottenham-epl-expert-picks-2026-10-10/"
+  ],
+  "news_update_2026_10_10": "Carrick confirmed the main United absentees already in my inputs (Sesko, Dorgu, Ugarte out; Mazraoui doubtful) and said Rashford, Mainoo and Amad have trained only 'a little bit', so United are likely to start without several first-choice attackers and midfielders, with Baleba debuting and a makeshift left-back. On the Spurs side, De Zerbi confirmed Van de Ven and Van Hecke are available (neutral, as previously assumed), but Kulusevski is not available and Maddison, Spurs' main fit creator with Simons out, is unlikely to start after missing training. The market has drifted slightly against Spurs (about 4.3 to 4.5). These largely offset: United's depletion was already in my 50%, while losing Maddison from the starting XI weakens the league's lowest-scoring attack a little further. I moved one point from Spurs to United (50/27/23 to 51/27/22). 2-0 United remains the primary score."
  }
 ]
