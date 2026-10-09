@@ -13,17 +13,17 @@
    "h": 1.4,
    "d": 5.0,
    "a": 8.0,
-   "source": "Wincomparator snippet: Stake 1.36/5.00/8.00, 1xbet 1.44/5.08/8.10; values here are midpoints. Dailysports quotes the home win at 1.41. Over 2.5 about -138 (1.72), under about +110 (2.10)."
+   "source": "Wincomparator snippet: Stake 1.36/5.00/8.00, 1xbet 1.44/5.08/8.10; values here are midpoints. Dailysports quotes the home win at 1.41. Over 2.5 about -138 (1.72), under about +110 (2.10). Rechecked 10 Oct (Sportytrader, Mightytips, Wincomparator): Arsenal 1.36-1.44, draw 4.90-5.08, Leeds 7.00-8.90; no material move after the press conferences, so midpoints kept."
   },
   "cs_odds_top3": null,
-  "team_news": "Arsenal: Christos Tzolis is OUT for a few weeks (muscle/hamstring, picked up with Greece). Daily Cannon reports William Saliba OUT. Kai Havertz and (per reports) Ezri Konsa face late fitness tests. Declan Rice skipped England duty for load management and Arteta hopes he is available. Ben White and Cristhian Mosquera are back in full training. Max Dowman is fit. Piero Hincapie is listed as available in one report and a late call in another. Leeds: Daniel James is OUT (back injury from Wales duty), but he has only 52 minutes this season, all off the bench. Joe Rodon is still out (hamstring). Jean-Matteo Bahoya (ankle sprain, France U21) is a chance to play. Harry Wilson is back in training. Farke is expected to keep a largely unchanged XI.",
+  "team_news": "As of Fri 9 Oct (Arteta presser) and Thu 8 Oct (Farke presser). Arsenal: OUT William Saliba (back problem from the World Cup; reports range from late October to December, Arteta gives no timeline) and Christos Tzolis (muscle, 'going to be out for a few weeks'). DOUBTS Kai Havertz (muscular/hamstring, sent back early by Germany) and Ezri Konsa (dead leg, withdrew from England): 'Max is available, Ezri and Kai we will see tomorrow.' AVAILABLE Declan Rice (skipped England for load management; reported 'fine and ready', Arteta: 'We have to manage him because he's had a few issues since he came back from the World Cup'), Max Dowman, Ben White, Cristhian Mosquera and Piero Hincapie. No suspensions. Leeds: OUT Daniel James (back, from Wales duty; bench player this season) and Joe Rodon (hamstring, 'it will be a bit until he is back in team training'); Mateo Joseph also listed out in one preview. DOUBTS Jean-Matteo Bahoya (ankle, France U21; back on the pitch Thursday, 'looks better, is a chance') and Harry Wilson (team training since Tuesday; 'We have to wait right now how his body reacts, but there is also a chance for him to be available'). No suspensions. Farke expected to keep a largely unchanged XI from the 0-0 with Palace (speculative, not confirmed).",
   "form_notes": "Arsenal are 2nd (W4 L1, GF8 GA4): W3-0 Coventry, W1-0 at Villa, W2-1 Chelsea, W2-0 at Sunderland, then L0-3 at Brighton in the last game before the break. Leeds are 5th and unbeaten (W2 D3, GF7 GA3): W1-0 at Forest, D1-1 Brentford, D1-1 at Brighton, W4-1 Newcastle, D0-0 Palace. Leeds have conceded only 3 goals, which is joint 2nd best in the league. Arsenal's games average 2.4 goals.",
   "xg_notes": "Arsenal xG for is about 8.5-9.0 over 5 games (sources vary; one has 6.8), and one source ranks them the best defence on xGA (4.59). Leeds xG for is about 7.2-7.7 (10th on Squawka's xG table). No reliable Leeds xGA found. H2H context only: Arsenal won both 2025-26 meetings, and Arteta is 4/4 in league games against Farke.",
   "pundits": "Chris Sutton (BBC): Arsenal 2-0, though one report says he floated 1-1 or 2-2 because of the international-break disruption. Squawka model: 1-0. PredictZ: 3-1. Betfanatics: 2-1. FiFPlay: 2-0. Jones Knows: not found.",
   "my_probs": {
-   "h": 0.61,
+   "h": 0.62,
    "d": 0.23,
-   "a": 0.16
+   "a": 0.15
   },
   "primary_score": "1-0",
   "alt_scores": [
@@ -49,8 +49,18 @@
    "https://hayters.com/farke-reveals-new-leeds-injury-blow-but-also-provides-double-positive-update/",
    "https://www.leedsallover.com/arsenal-v-leeds-united-daniel-farke-reveals-four-man-injury-news/",
    "https://thefootballfaithful.com/premier-league-xg-table-five-weeks-2026-27/",
-   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-  ]
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://www.arsenal.com/news/every-word-of-artetas-pre-leeds-press-conference-aoTsx4n3uzOe",
+   "https://www.naijanews.com/2026/10/09/mikel-arteta-hopeful-havertz-konsa-rice-arsenal-leeds-clash/",
+   "https://britbrief.co.uk/sports/football/arsenal-vs-leeds-havertz-and-konsa-injury-doubts.html",
+   "https://paininthearsenal.com/arsenal-injury-news-every-ruled-out-fit-player-for-the-gunners-against-leeds-01m4gahnawcd",
+   "https://www.leedsunited.com/en/news/squad-update-farke-on-bahoya-wilson-and-more",
+   "https://lastwordonsports.com/football/2026/10/08/leeds-united-injury-news/",
+   "https://www.vavel.com/en/football/2026/10/08/premier-league/1274433-farke-feels-there-is-nothing-to-lose-for-leeds-against-arsenal.html",
+   "https://www.sportytrader.com/en/betting-tips/arsenal-leeds-377664/",
+   "https://www.mightytips.com/football-predictions/arsenal-vs-leeds-prediction-10-10-2026/"
+  ],
+  "news_update_2026_10_10": "Arteta's Friday press conference largely confirmed the earlier picture. Saliba remains out (back, no return date) and Tzolis is out for a few weeks, while Havertz and Konsa are genuine late fitness tests ('we will see tomorrow'). The main change is Declan Rice: previously Arteta only 'hoped' he would be available, but Friday's coverage has him fine and expected to start, albeit with his load managed. White, Mosquera, Hincapie and Dowman are all available. For Leeds, Farke confirmed James and Rodon are out, but James is a bench player and Rodon was already absent; Bahoya and Wilson are now realistic options, a small plus for Leeds' depth. Prices have not moved (Arsenal about 1.40). Rice being available is a modest boost for a midfield starter, so I nudge Arsenal up one point (0.61 to 0.62) and Leeds down one (0.16 to 0.15), leaving the draw at 0.23. I stay below Opta and the market because Saliba is out and Havertz is uncertain. 1-0 remains the modal score."
  },
  {
   "home": "Sunderland AFC",
@@ -66,19 +76,19 @@
    "h": 3.1,
    "d": 3.5,
    "a": 2.3,
-   "source": "Statz.ai best prices (Sunderland 3.10, draw 3.50 bet365, Brighton 2.30 Ladbrokes). A 9 Oct preview has 2/1, 5/2, 5/4. Over 2.5 at 1.80 (bet365/1xBet). BTTS Yes at 1.65-1.67."
+   "source": "Statz.ai best prices (Sunderland 3.10, draw 3.50 bet365, Brighton 2.30 Ladbrokes). A 9 Oct preview has 2/1, 5/2, 5/4. Over 2.5 at 1.80 (bet365/1xBet). BTTS Yes at 1.65-1.67. Rechecked 10 Oct (Footballwhispers, Squawka, Compare.bet, tips.gg): Sunderland 2.90-3.20, draw 3.40-3.60, Brighton 2.22-2.44; unchanged in substance, so kept."
   },
   "cs_odds_top3": [
    "Brighton 2-1 (away) +750 / 8.50 (SportsGambler)"
   ],
-  "team_news": "Sunderland: Brian Brobbey is OUT (hamstring, could return within a week). Daniel Ballard is OUT. Habib Diarra is absent but back in training. Wilson Isidor is expected to lead the line. Squawka reports Reinildo suspended, but this is unconfirmed elsewhere. Brighton: Yankuba Minteh, Mats Wieffer and Kaoru Mitoma are getting closer but not fit. Stefanos Tzimas and Evan Ferguson are still out. Both sides are expected in a 4-2-3-1 (Roefs and Verbruggen in goal).",
+  "team_news": "As of Thu 8 Oct (Le Bris presser) and Fri 9 Oct (Hurzeler presser). Sunderland: OUT Dan Ballard (hamstring, 'a medium-term injury, probably a few weeks'; one outlet reports surgery, likely out until after the November break), Brian Brobbey (hamstring on Netherlands duty; Echo says could return in about a week), Habib Diarra and Romaine Mundle (Le Bris lists all four as set to miss the game). AVAILABLE Reinildo: he served his one-match ban (red card v Arsenal) at Man City, so the Squawka suspension listing is stale and he is expected at left-back. Granit Xhaka has 'trained really well' over the break. Wilson Isidor expected to lead the line in Brobbey's place. No suspensions. Brighton: OUT Kaoru Mitoma, Yankuba Minteh and Mats Wieffer ('getting closer' but this weekend is too soon), Evan Ferguson and Stefanos Tzimas (long-term, 'still too early'), Femi Azeez and Zadok Yohanna (not included while adapting). RETURNING Lewis Dunk (minor neck problem), though Hurzeler said it is unclear whether including him 'makes sense' given the schedule; Yasin Ayari available after illness. DOUBT Jack Hinshelwood (trained this week, to be assessed late). No suspensions.",
   "form_notes": "Sunderland are 14th (W1 D1 L3, GF6 GA10): L1-2 at Ipswich, W1-0 Fulham, D1-1 at Brentford, L0-2 Arsenal, L3-5 at Man City. Brighton are 3rd (W3 D1 L1, GF16 GA5): W4-0 Villa, L3-4 at Chelsea, D1-1 at Leeds, W5-0 at Coventry, W3-0 Arsenal. Brighton's away record is W1 D1 L1.",
   "xg_notes": "Brighton lead most xG tables with about 11.0-11.5 xG for (2.19/90). Sunderland's underlying numbers are much better than their results: Squawka has 9.21 xG for and 7.39 xGA (6th on its xG table), against actual figures of 6 scored and 10 conceded. H2H context only: Brighton won at the Stadium of Light last season (per Sutton).",
   "pundits": "Chris Sutton (BBC): 1-1. Squawka model: 0-1. Dimers model: 1-1 as the most likely score (12.1%). Statz: 1-1. Last Word on Football: 3-2. BetFanatics: 1-3. Livescore: Brighton to grind out a win.",
   "my_probs": {
-   "h": 0.3,
+   "h": 0.29,
    "d": 0.31,
-   "a": 0.39
+   "a": 0.4
   },
   "primary_score": "1-2",
   "alt_scores": [
@@ -102,8 +112,18 @@
    "https://www.squawka.com/en/features/premier-league-xg-table/",
    "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-premier-league-xg-9278965",
    "https://sunderlandecho.com/sport/football/sunderland-afc/chris-sutton-sunderland-brighton-prediction-9277101",
-   "https://www.livescore.com/en/news/football/premier-league/predictions/sunderland-brighton-predictions-premier-league/"
-  ]
+   "https://www.livescore.com/en/news/football/premier-league/predictions/sunderland-brighton-predictions-premier-league/",
+   "https://sports.yahoo.com/articles/regis-le-bris-issues-major-130640505.html",
+   "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-injury-news-brian-brobbey-dan-ballard-9274951",
+   "https://onefootball.com/en/news/sunderland-vs-brighton-team-news-as-reinildo-returns-ballard-and-brobbey-out-43583238",
+   "https://www.rotowire.com/soccer/headlines/reinildo-news-returns-from-suspension-534785",
+   "https://www.brightonandhovealbion.com/media-article/mft-match-preview-sunderland-bha-pl-october-2026",
+   "https://sports.yahoo.com/articles/mitoma-brighton-confirmed-team-news-130341459.html",
+   "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/brighton-confirmed-injury-news-for-sunderland-five-out-and-three-return-and-one-doubt-9276476",
+   "https://dave.sport/news/sunderland-vs-brighton-predicted-line-ups/",
+   "https://footballwhispers.com/blog/sunderland-vs-brighton-prediction-preview-betting-tips-10-10-26/"
+  ],
+  "news_update_2026_10_10": "The press conferences mostly confirmed what was already priced in: Brobbey and Ballard are out for Sunderland, and Mitoma, Minteh, Wieffer, Ferguson and Tzimas are out for Brighton. Three things changed. Diarra, previously described as back in training, is now confirmed out by Le Bris, and Mundle is also out, which thins Sunderland's midfield and wide options. Against that, Reinildo is available, having already served his ban at Man City, so the earlier suspension report was wrong. Brighton get Dunk and Ayari back, although Dunk may be managed. The odds have not moved. The net effect is a small tilt towards Brighton: Sunderland 0.30 to 0.29, Brighton 0.39 to 0.40, draw unchanged at 0.31. None of these players is a first-choice goalkeeper or main striker, so the move stays at one point. 1-2 remains the primary pick, with 1-1 close behind."
  },
  {
   "home": "Chelsea",
@@ -119,17 +139,17 @@
    "h": 1.67,
    "d": 4.33,
    "a": 4.75,
-   "source": "Statz.ai best prices (Chelsea 1.67 midnite, draw 4.33 bet365, Bournemouth 4.75 boylesports). SportsGambler: Chelsea -147. Dimers: Over 2.5 at -182 (1.55). TNT: BTTS Yes at 1.53."
+   "source": "Statz.ai best prices (Chelsea 1.67 midnite, draw 4.33 bet365, Bournemouth 4.75 boylesports). SportsGambler: Chelsea -147. Dimers: Over 2.5 at -182 (1.55). TNT: BTTS Yes at 1.53. Rechecked 10 Oct: Wincomparator 1.67 (bet365, best 1.79) / 4.00 (best 4.30) / 4.33 (best 4.55); Compare.bet 4/6, 16/5, 18/5 (1.67/4.20/4.60). No clear move after Alonso's update, so prices kept."
   },
   "cs_odds_top3": null,
-  "team_news": "Chelsea: Cole Palmer and Joao Pedro are doubtful after missing international duty injured, and BetMGM reports both set to miss. Bet365 instead describes Palmer as 'rested', so the reports conflict. Reece James and Moises Caicedo are also doubtful. Expected shape is Alonso's 3-4-2-1, with Danny Welbeck up front if Pedro is not fit and Colwill at the back. Bournemouth: Alex Scott and Justin Kluivert are OUT injured. Lewis Cook is expected to start in midfield. Expected shape is a 4-2-3-1 with Petrovic in goal and Evanilson up front.",
+  "team_news": "As of Fri 9 Oct (Alonso presser) and Thu 8 Oct (Rose presser). Chelsea: AVAILABLE Moises Caicedo (calf; 'completely ready', in line for his first league start of the season after only 14 minutes so far), Cole Palmer (minor muscle issue that kept him out of England duty; has trained all week, though Alonso stressed full fitness is the priority after he was 'struggling' against Brentford), Reece James (hamstring; trained well), Joao Pedro (knee, saw a specialist; Alonso suggested he can feature) and Marco Palestra (may not be ready to start). Sports Mole still lists Palmer and Joao Pedro as minor doubts. OUT Jamie Gittens (ankle, England U21; out until at least the end of October: 'He's not going to be fit for tomorrow, that's the bad news'). Emmanuel Emegha (hamstring) a major doubt. No suspensions. Bournemouth (Marco Rose): OUT Alex Scott (quad, from England duty; 'we're going to miss him, for sure, for four or five weeks') and Justin Kluivert (muscle, late October); Eli Kroupi, Julian Araujo and Amine Abdi also listed out in one preview. Lewis Cook expected to partner Tyler Adams, Tavernier behind Evanilson. No suspensions.",
   "form_notes": "Chelsea are 10th (W2 D1 L2, GF10 GA12) and winless in 3: W3-2 at Fulham, W4-3 Brighton, L1-2 at Arsenal, D2-2 Hull, L0-3 at Brentford. All five Chelsea games went over 2.5 and four had BTTS. Bournemouth are 17th (W0 D3 L2, GF6 GA8): L1-2 at Man City, D1-1 Everton, D2-2 at Newcastle, D2-2 Brentford, L0-1 at Liverpool. Bournemouth's only defeats were by one goal, at City and Liverpool.",
   "xg_notes": "Chelsea xG for is about 7.3-7.75, mid-table (12th on Planet Football's xG table). Bournemouth: xGA 5.71 (Squawka), about 7 per xGstat, and 5.3 (7th) per an older Planet Football table. xG for is about 8 per xGstat, so their underlying numbers are better than 17th place suggests. H2H context only: Chelsea are unbeaten in their last 9 top-flight meetings (W4 D5, per The Analyst).",
   "pundits": "Chris Sutton (BBC): Chelsea 3-1. Betfanatics: 2-1. Footballwhispers: 2-1. Dimers model: 2-1 as the most likely score (9.6%). Sports Interaction: 2-2. Bet365 tip: Chelsea and BTTS at 15/8. Jones Knows: not found.",
   "my_probs": {
-   "h": 0.48,
-   "d": 0.27,
-   "a": 0.25
+   "h": 0.52,
+   "d": 0.25,
+   "a": 0.23
   },
   "primary_score": "2-1",
   "alt_scores": [
@@ -155,7 +175,17 @@
    "https://news.sportsinteraction.com/soccer/premier-league/story/chelsea-vs-bournemouth-odds-predictions-premier-league-tips-and-bet-builder-337040",
    "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
    "https://www.squawka.com/en/features/premier-league-xg-table/",
-   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-  ]
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://sports.yahoo.com/articles/xabi-alonso-confirms-five-chelsea-144000166.html",
+   "https://www.talkchelsea.net/injury-news/xabi-alonso-confirms-five-chelsea-players-are-ready-to-go-for-bournemouth-clash/",
+   "https://www.sportsmole.co.uk/football/chelsea/injury-news/news/several-chelsea-stars-ready-to-go-after-injury-one-attacker-out-for-weeks_606557.html",
+   "https://www.sportsmole.co.uk/football/chelsea/injury-news/injuries-and-suspensions/palmer-caicedo-pedro-latest-chelsea-injury-suspension-list-vs-bournemouth_606368.html",
+   "https://sports.yahoo.com/articles/rose-scotts-injury-adapting-style-133836808.html",
+   "https://www.vavel.com/en/football/2026/10/08/bournemouth/1274378-marco-rose-does-not-want-to-blame-anyone-for-scott-injury.html",
+   "https://www.sportsmole.co.uk/football/chelsea/preview/chelsea-vs-bournemouth-prediction-team-news-lineups_606416.html",
+   "https://www.wincomparator.com/predictions/chelsea-bournemouth-8559254/",
+   "https://www.compare.bet/news/chelsea-vs-bournemouth"
+  ],
+  "news_update_2026_10_10": "This is the material change of the three fixtures. The previous entry had Palmer, Joao Pedro, James and Caicedo all doubtful, with one report saying Palmer and Pedro would miss. Alonso's Friday press conference declared all four available ('ready to go'), with only Gittens ruled out. Palmer (playmaker) and Joao Pedro (main striker) are key starters, and Caicedo and James strengthen a side that has conceded 12 in 5, so I move Chelsea up four points (0.48 to 0.52), taking two from the draw (0.27 to 0.25) and two from Bournemouth (0.25 to 0.23). I do not go further because Caicedo has 14 league minutes this season, Palmer is being managed after struggling against Brentford, and the pre-news prices (about 58% Chelsea) may already have assumed most of them would play. Bournemouth's news is unchanged (Scott out four to five weeks, Kluivert out). I remain slightly above Opta (51.8%) and below the market. 2-1 stays the primary score; 1-1 and 2-2 remain the alternatives."
  }
 ]
