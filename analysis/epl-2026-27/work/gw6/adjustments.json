@@ -3,5 +3,10 @@
   "home_xg_mult": 0.85,
   "away_xg_mult": 1.0,
   "reason": "Isak, Gakpo and Ekitike all unavailable (Iraola press conference, 9 Oct 2026): Liverpool's three main forwards out. The results-only model cannot see this, so Liverpool's expected goals in the model are cut by 15%. Applied to the model input only; the market, Opta and analyst inputs already reflect the news."
+ },
+ "Sunderland v Brighton": {
+  "home_xg_mult": 0.92,
+  "away_xg_mult": 1.08,
+  "reason": "Sunderland without two key players (Ballard, centre-back, and Brobbey, striker; Le Bris press conference, 8 Oct 2026) whose absence is not yet reflected in their results. Sunderland's model expected goals cut by 8% and Brighton's raised by 8%. Model input only. Brighton's own absences (Mitoma, Minteh, Wieffer) are not adjusted because they appear to have been out for most of the season already."
  }
 }
