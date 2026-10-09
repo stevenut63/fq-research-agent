@@ -1,77 +1,111 @@
 [
-  {
-    "home": "Hull City AFC",
-    "away": "Everton",
-    "kickoff": "2026-10-11 14:00 BST",
-    "opta": {"h": 28.4, "d": 25.9, "a": 45.7, "source": "The Analyst MD6 Opta supercomputer picks (dated 2026-10-08), https://theanalyst.com/articles/premier-league-match-predictions; Everton 45.7% and Hull 28.4% are stated; the draw is derived as 100-28.4-45.7. 45.7% is the largest away-win probability of the round."},
-    "odds": {"h": 3.40, "d": 3.40, "a": 2.05, "source": "bet365 (Australia) decimal prices via Stats Insider. DraftKings via Gainblers: Hull +265, draw +235, Everton +105. Both imply about 26-27% / 27-28% / 45-46% after removing the margin."},
-    "ou25_odds": "Under 2.5 is favoured: 8/11 to 5/6 at UK books, best 1.88 (22bet). Over 2.5 is $2.10 at bet365 AU.",
-    "cs_odds_top3": null,
-    "team_news": "Hull (newly promoted, play-off winners): Elliot Matazo, Jack Butland, Darko Gyabi, Ilyas Ansah and Charlie Hughes are ruled out. Hidemasa Morita and Nobel Mendy are likely back, though one preview still lists Mendy (concussion) as out. Brooke Norton-Cuffy and Matt Targett are doubtful. Predicted 5-4-1: Tzolakis; Coyle, Ajayi, Egan, Mendy, Giles; Belloumi, Slater, Crooks, Thomas; McBurnie. Everton: Vitaliy Mykolenko is a serious doubt after leaving the Ukraine camp injured on 1 Oct. Christian Norgaard is doubtful. Merlin Rohl is doubtful or out (Squawka says out). Predicted XI: Pickford; Maitland-Niles, Tarkowski, Branthwaite, Mykolenko; Garner, Hackney; Johnson, Dewsbury-Hall, Grealish; Barry. George or Armstrong are alternatives.",
-    "form_notes": "Hull (8th, 8 pts): W2-0 v Man Utd, W1-0 at Coventry, D0-0 v Villa, D2-2 at Chelsea, L1-2 at Newcastle. GF6 GA4. Unbeaten and no goals conceded in 2 home games. Everton (7th, 9 pts): unbeaten with W2 D3, GF6 GA3. Their last three were D2-2 v Man Utd, D0-0 at Spurs and W1-0 v Ipswich. They draw a lot and their games are low-scoring. 5 of Everton's 5 games and 3 of Hull's 5 finished under 3.5 goals. Season-wide draw rate is 32%.",
-    "xg_notes": "Hull after MW4 (Planet Football xG table): 3.7 xG for and 6.0 xGA (-2.3), 4 xPts. That ranks them 19th for xG and 12th for xGA, so results are running ahead of process. FootyStats shows 1.29 xG / 1.61 xGA per match (sample unclear). No Everton team xG found. Thierno Barry had 2.98 xG before GW5 (2nd in the league) and was underperforming it (Fantasy Football Scout). H2H as context only: last PL meetings were 2016-17 (2-2 at Hull, 4-0 at Everton).",
-    "pundits": "Chris Sutton (BBC): 1-1. Squawka Signal model: Hull 33 / D 29 / Everton 38, correct score 0-1. Stats Insider: 25.9 / 25.6 / 48.5. Footballpredictions.com: 1-1. Most tipsters back under 2.5. Unverified tipster correct-score snippets: 1-1 at about +600 and 1-0 at +1000 (predictZ). No full correct-score market was found.",
-    "my_probs": {"h": 0.28, "d": 0.31, "a": 0.41},
-    "primary_score": "0-1",
-    "alt_scores": ["1-1", "0-0"],
-    "confidence": "Low",
-    "btts": "No",
-    "over25": "No",
-    "reasoning": "Opta (45.7%) and the market (about 45-46%) agree Everton are clear favourites. Everton are unbeaten and have conceded only 3 goals in 5, while Hull's xG difference (-2.3 after MW4) suggests their results are flattering them. I shade the draw up from about 26% to 31%. Everton have drawn 3 of 5, Hull have kept clean sheets in both home games, the under-2.5 line is favoured, and the season draw rate is 32%. Even so, Everton remain the single most likely result. A narrow, low-scoring away win (0-1) fits Everton's 1-0 / 0-0 profile and avoids the 2-1 cluster. 1-1 (Sutton's pick) is the main alternative.",
-    "risks": "Hull have not conceded at home and are organised in a 5-4-1, so a 0-0 or 1-1 is very live. Everton's full-back cover (Mykolenko doubt) could be exposed by Hull's wide players. Hull's high xGA could also mean the game is more open than the under-2.5 market implies.",
-    "sources": [
-      "https://theanalyst.com/articles/premier-league-match-predictions",
-      "https://eng.pressbee.net/show4916050.html",
-      "https://www.goodisonnews.com/match/what-supercomputer-has-already-predicted-in-hull-city-vs-everton",
-      "https://www.statsinsider.com.au/news/hull-vs-everton-prediction-and-tips-12-october-2026",
-      "https://gainblers.com/us/bets/football/england/premier-league/hull-everton/",
-      "https://www.squawka.com/us/news/premier-league/match-preview-hull-city-vs-everton-11-10-26-premier-league/",
-      "https://www.livescore.com/en/news/football/premier-league/hull-city-vs-everton-early-injury-news-as-5-ruled-out-and-5-doubts-prince-ruperts-tower/",
-      "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-everton-prediction-team-news-lineups_606531.html",
-      "https://thefalse9.com/2026/10/hull-everton-predicted-lineups-moyes-mcburnie-october.html",
-      "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
-      "https://footystats.org/clubs/hull-city-afc-150",
-      "https://www.fantasyfootballscout.co.uk/2026/09/18/the-scout-squad-our-top-picks-for-fpl-gameweek-5-3",
-      "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
-      "https://footballpredictions.com/footballpredictions/premierleaguepredictions/hull-city-vs-everton-prediction-11-10-2026/",
-      "https://www.predictz.com/us/picks/england/premier-league/1196810/"
-    ]
+ {
+  "home": "Hull City AFC",
+  "away": "Everton",
+  "kickoff": "2026-10-11 14:00 BST",
+  "opta": {
+   "h": 28.4,
+   "d": 25.9,
+   "a": 45.7,
+   "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously The Analyst MD6 Opta supercomputer picks (dated 2026-10-08), https://theanalyst.com/articles/premier-league-match-predictions; Everton 45.7% and Hull 28.4% are stated; the draw is derived as 100-28.4-45.7. 45.7% is the largest away-win probability of the round."
   },
-  {
-    "home": "Crystal Palace",
-    "away": "Nottingham Forest",
-    "kickoff": "2026-10-11 14:00 BST",
-    "opta": {"h": 36.3, "d": 28.8, "a": 34.9, "source": "The Analyst MD6 Opta supercomputer picks (dated 2026-10-08), https://theanalyst.com/articles/premier-league-match-predictions. The 28.8% draw is the most likely draw of the weekend. The Palace and Forest figures come via a search summary of the same article (they sum to 100.0)."},
-    "odds": {"h": 2.625, "d": 3.50, "a": 2.625, "source": "Compare.bet (bet365): Palace 13/8, draw 5/2, Forest 13/8. Racing Post: 17/10 each side, draw 9/4. Sportytrader (1xbet): Palace 2.79, draw 3.49. These imply about 35-36% / 27-29% / 35-36%."},
-    "ou25_odds": "Under 2.5 at 10/11 (bet365, via Compare.bet). BTTS No at 6/5 (Compare.bet).",
-    "cs_odds_top3": null,
-    "team_news": "Palace: Dean Henderson (foot), Jean-Philippe Mateta (hamstring), Takehiro Tomiyasu (calf) and Chadi Riad (knee) are out. Axel Disasi is suspended after a red card. Anan Khalaili and Ismaila Sarr are fit, though Starting11 flags Khalaili as a doubt, and Sarr may replace Yeremy Pino. Expected 3-4-2-1 with Benitez in goal and Larsen up front (Racing Post). Forest: Igor Jesus (calf) and Nikola Milenkovic (bone bruise) are injured, and Milenkovic is the key defensive concern. Neco Williams has an illness but is expected to start. Expected 3-4-2-1: Sels; ... Gibbs-White (5 big chances created this season); Liam Delap up front.",
-    "form_notes": "Palace (15th, 4 pts): L0-2 at Everton, L1-4 v Man City, W3-2 at Fulham, L2-3 v Ipswich, D0-0 at Leeds. GF6 GA11. They have the worst home defence so far (7 conceded in 2 home games). Forest (13th, 5 pts): L0-1 v Leeds, D2-2 at Liverpool, D0-0 v Spurs, W2-1 at Villa, L0-1 v Coventry. GF4 GA5, so their games are low-scoring. Forest are better away (W1 D1) than at home. H2H as context only: 6 of the last 8 PL meetings were drawn, all 1-1 or 0-0, and Forest are unbeaten in 9+ against Palace.",
-    "xg_notes": "No team xG figures were found for either side. Fantasy Football Scout: 8 of Palace's 11 goals conceded came from in or around the six-yard box, which points to set-piece and cut-back weakness. Squawka's 2026/27 xG-table page lists Forest 7th and Palace 17th after GW5, but the underlying values were not visible. Gibbs-White has created 5 big chances.",
-    "pundits": "Chris Sutton (BBC): 0-1 Forest. Racing Post best bet: Forest at 17/10. Compare.bet: 0-1 Forest, under 2.5, BTTS No. Sportytrader and FreeTips: BTTS Yes (FreeTips also over 2.5). Opta calls this the most likely draw of the weekend.",
-    "my_probs": {"h": 0.32, "d": 0.35, "a": 0.33},
-    "primary_score": "1-1",
-    "alt_scores": ["0-0", "0-1"],
-    "confidence": "Low",
-    "btts": "Yes",
-    "over25": "No",
-    "reasoning": "Opta (36.3 / 28.8 / 34.9) and the market (about 36 / 27 / 36) both treat this as a coin-flip between two out-of-form sides, and Opta names it the round's likeliest draw. I push the draw to 35%, making it my most likely result. Both sides are missing their first-choice striker (Mateta, Igor Jesus), Forest have scored only 4 in 5, and Palace drew 0-0 at Leeds last time out. The season draw rate is 32%, and these clubs habitually draw 1-1 or 0-0 (context only). Palace's leaky defence (11 GA, worst at home) makes a Forest goal likely, and Forest's makeshift back line (Milenkovic out) gives Palace a route back. That makes 1-1 the natural score, with 0-0 and 0-1 as the alternatives.",
-    "risks": "Palace's defensive record (11 conceded, Henderson, Riad and Tomiyasu out, Disasi suspended) could hand Forest a 0-1 or 1-2 win, which Sutton and the Racing Post both lean towards. Palace's home games have also been high-scoring (1-4, 2-3), against the under-2.5 market.",
-    "sources": [
-      "https://theanalyst.com/articles/premier-league-match-predictions",
-      "https://eng.pressbee.net/show4916050.html",
-      "https://www.compare.bet/news/crystal-palace-vs-nottingham-forest",
-      "https://www.racingpost.com/sport/football-tips/premier-league/crystal-palace-vs-nottingham-forest-predictions-betting-tips-and-odds-amBLY0V83dIq/",
-      "https://www.racingpost.com/sport/football-tips/premier-league/crystal-palace-vs-nottingham-forest-predictions-team-news-odds-betting-tips-bet-builder-aQzey9B1hkRv/",
-      "https://www.sportytrader.com/en/betting-tips/crystal-palace-nottingham-forest-378043/",
-      "https://www.freetips.com/football/english-premier-league/crystal-palace-vs-nottingham-forest-betting-tips-20261009-0008/",
-      "https://www.sportsmole.co.uk/football/crystal-palace/preview/crystal-palace-vs-nottm-forest-prediction-team-news-lineups_606578.html",
-      "https://www.sportsmole.co.uk/football/crystal-palace/predicted-lineups/sarr-to-replace-pino-crystal-palace-predicted-xi-vs-forest_606579.html",
-      "https://starting11.com/fixtures/crystal-palace-vs-nottingham-forest",
-      "https://www.fantasyfootballscout.co.uk/2026/09/18/the-scout-squad-our-top-picks-for-fpl-gameweek-5-3",
-      "https://www.squawka.com/en/features/premier-league-xg-table/",
-      "https://sports.yahoo.com/articles/suttons-predictions-v-starsailor-frontman-204653732.html",
-      "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
-    ]
-  }
+  "odds": {
+   "h": 3.4,
+   "d": 3.4,
+   "a": 2.05,
+   "source": "bet365 (Australia) decimal prices via Stats Insider. DraftKings via Gainblers: Hull +265, draw +235, Everton +105. Both imply about 26-27% / 27-28% / 45-46% after removing the margin."
+  },
+  "ou25_odds": "Under 2.5 is favoured: 8/11 to 5/6 at UK books, best 1.88 (22bet). Over 2.5 is $2.10 at bet365 AU.",
+  "cs_odds_top3": null,
+  "team_news": "Hull (newly promoted, play-off winners): Elliot Matazo, Jack Butland, Darko Gyabi, Ilyas Ansah and Charlie Hughes are ruled out. Hidemasa Morita and Nobel Mendy are likely back, though one preview still lists Mendy (concussion) as out. Brooke Norton-Cuffy and Matt Targett are doubtful. Predicted 5-4-1: Tzolakis; Coyle, Ajayi, Egan, Mendy, Giles; Belloumi, Slater, Crooks, Thomas; McBurnie. Everton: Vitaliy Mykolenko is a serious doubt after leaving the Ukraine camp injured on 1 Oct. Christian Norgaard is doubtful. Merlin Rohl is doubtful or out (Squawka says out). Predicted XI: Pickford; Maitland-Niles, Tarkowski, Branthwaite, Mykolenko; Garner, Hackney; Johnson, Dewsbury-Hall, Grealish; Barry. George or Armstrong are alternatives.",
+  "form_notes": "Hull (8th, 8 pts): W2-0 v Man Utd, W1-0 at Coventry, D0-0 v Villa, D2-2 at Chelsea, L1-2 at Newcastle. GF6 GA4. Unbeaten and no goals conceded in 2 home games. Everton (7th, 9 pts): unbeaten with W2 D3, GF6 GA3. Their last three were D2-2 v Man Utd, D0-0 at Spurs and W1-0 v Ipswich. They draw a lot and their games are low-scoring. 5 of Everton's 5 games and 3 of Hull's 5 finished under 3.5 goals. Season-wide draw rate is 32%.",
+  "xg_notes": "Hull after MW4 (Planet Football xG table): 3.7 xG for and 6.0 xGA (-2.3), 4 xPts. That ranks them 19th for xG and 12th for xGA, so results are running ahead of process. FootyStats shows 1.29 xG / 1.61 xGA per match (sample unclear). No Everton team xG found. Thierno Barry had 2.98 xG before GW5 (2nd in the league) and was underperforming it (Fantasy Football Scout). H2H as context only: last PL meetings were 2016-17 (2-2 at Hull, 4-0 at Everton).",
+  "pundits": "Chris Sutton (BBC): 1-1. Squawka Signal model: Hull 33 / D 29 / Everton 38, correct score 0-1. Stats Insider: 25.9 / 25.6 / 48.5. Footballpredictions.com: 1-1. Most tipsters back under 2.5. Unverified tipster correct-score snippets: 1-1 at about +600 and 1-0 at +1000 (predictZ). No full correct-score market was found.",
+  "my_probs": {
+   "h": 0.28,
+   "d": 0.31,
+   "a": 0.41
+  },
+  "primary_score": "0-1",
+  "alt_scores": [
+   "1-1",
+   "0-0"
+  ],
+  "confidence": "Low",
+  "btts": "No",
+  "over25": "No",
+  "reasoning": "Opta (45.7%) and the market (about 45-46%) agree Everton are clear favourites. Everton are unbeaten and have conceded only 3 goals in 5, while Hull's xG difference (-2.3 after MW4) suggests their results are flattering them. I shade the draw up from about 26% to 31%. Everton have drawn 3 of 5, Hull have kept clean sheets in both home games, the under-2.5 line is favoured, and the season draw rate is 32%. Even so, Everton remain the single most likely result. A narrow, low-scoring away win (0-1) fits Everton's 1-0 / 0-0 profile and avoids the 2-1 cluster. 1-1 (Sutton's pick) is the main alternative.",
+  "risks": "Hull have not conceded at home and are organised in a 5-4-1, so a 0-0 or 1-1 is very live. Everton's full-back cover (Mykolenko doubt) could be exposed by Hull's wide players. Hull's high xGA could also mean the game is more open than the under-2.5 market implies.",
+  "sources": [
+   "https://theanalyst.com/articles/premier-league-match-predictions",
+   "https://eng.pressbee.net/show4916050.html",
+   "https://www.goodisonnews.com/match/what-supercomputer-has-already-predicted-in-hull-city-vs-everton",
+   "https://www.statsinsider.com.au/news/hull-vs-everton-prediction-and-tips-12-october-2026",
+   "https://gainblers.com/us/bets/football/england/premier-league/hull-everton/",
+   "https://www.squawka.com/us/news/premier-league/match-preview-hull-city-vs-everton-11-10-26-premier-league/",
+   "https://www.livescore.com/en/news/football/premier-league/hull-city-vs-everton-early-injury-news-as-5-ruled-out-and-5-doubts-prince-ruperts-tower/",
+   "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-everton-prediction-team-news-lineups_606531.html",
+   "https://thefalse9.com/2026/10/hull-everton-predicted-lineups-moyes-mcburnie-october.html",
+   "https://www.planetfootball.com/premier-league/2026-27-premier-league-xg-tables-man-utd-3rd-chelsea-12th-newcastle-bottom",
+   "https://footystats.org/clubs/hull-city-afc-150",
+   "https://www.fantasyfootballscout.co.uk/2026/09/18/the-scout-squad-our-top-picks-for-fpl-gameweek-5-3",
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://footballpredictions.com/footballpredictions/premierleaguepredictions/hull-city-vs-everton-prediction-11-10-2026/",
+   "https://www.predictz.com/us/picks/england/premier-league/1196810/"
+  ]
+ },
+ {
+  "home": "Crystal Palace",
+  "away": "Nottingham Forest",
+  "kickoff": "2026-10-11 14:00 BST",
+  "opta": {
+   "h": 36.3,
+   "d": 28.8,
+   "a": 34.9,
+   "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously The Analyst MD6 Opta supercomputer picks (dated 2026-10-08), https://theanalyst.com/articles/premier-league-match-predictions. The 28.8% draw is the most likely draw of the weekend. The Palace and Forest figures come via a search summary of the same article (they sum to 100.0)."
+  },
+  "odds": {
+   "h": 2.625,
+   "d": 3.5,
+   "a": 2.625,
+   "source": "Compare.bet (bet365): Palace 13/8, draw 5/2, Forest 13/8. Racing Post: 17/10 each side, draw 9/4. Sportytrader (1xbet): Palace 2.79, draw 3.49. These imply about 35-36% / 27-29% / 35-36%."
+  },
+  "ou25_odds": "Under 2.5 at 10/11 (bet365, via Compare.bet). BTTS No at 6/5 (Compare.bet).",
+  "cs_odds_top3": null,
+  "team_news": "Palace: Dean Henderson (foot), Jean-Philippe Mateta (hamstring), Takehiro Tomiyasu (calf) and Chadi Riad (knee) are out. Axel Disasi is suspended after a red card. Anan Khalaili and Ismaila Sarr are fit, though Starting11 flags Khalaili as a doubt, and Sarr may replace Yeremy Pino. Expected 3-4-2-1 with Benitez in goal and Larsen up front (Racing Post). Forest: Igor Jesus (calf) and Nikola Milenkovic (bone bruise) are injured, and Milenkovic is the key defensive concern. Neco Williams has an illness but is expected to start. Expected 3-4-2-1: Sels; ... Gibbs-White (5 big chances created this season); Liam Delap up front.",
+  "form_notes": "Palace (15th, 4 pts): L0-2 at Everton, L1-4 v Man City, W3-2 at Fulham, L2-3 v Ipswich, D0-0 at Leeds. GF6 GA11. They have the worst home defence so far (7 conceded in 2 home games). Forest (13th, 5 pts): L0-1 v Leeds, D2-2 at Liverpool, D0-0 v Spurs, W2-1 at Villa, L0-1 v Coventry. GF4 GA5, so their games are low-scoring. Forest are better away (W1 D1) than at home. H2H as context only: 6 of the last 8 PL meetings were drawn, all 1-1 or 0-0, and Forest are unbeaten in 9+ against Palace.",
+  "xg_notes": "No team xG figures were found for either side. Fantasy Football Scout: 8 of Palace's 11 goals conceded came from in or around the six-yard box, which points to set-piece and cut-back weakness. Squawka's 2026/27 xG-table page lists Forest 7th and Palace 17th after GW5, but the underlying values were not visible. Gibbs-White has created 5 big chances.",
+  "pundits": "Chris Sutton (BBC): 0-1 Forest. Racing Post best bet: Forest at 17/10. Compare.bet: 0-1 Forest, under 2.5, BTTS No. Sportytrader and FreeTips: BTTS Yes (FreeTips also over 2.5). Opta calls this the most likely draw of the weekend.",
+  "my_probs": {
+   "h": 0.32,
+   "d": 0.35,
+   "a": 0.33
+  },
+  "primary_score": "1-1",
+  "alt_scores": [
+   "0-0",
+   "0-1"
+  ],
+  "confidence": "Low",
+  "btts": "Yes",
+  "over25": "No",
+  "reasoning": "Opta (36.3 / 28.8 / 34.9) and the market (about 36 / 27 / 36) both treat this as a coin-flip between two out-of-form sides, and Opta names it the round's likeliest draw. I push the draw to 35%, making it my most likely result. Both sides are missing their first-choice striker (Mateta, Igor Jesus), Forest have scored only 4 in 5, and Palace drew 0-0 at Leeds last time out. The season draw rate is 32%, and these clubs habitually draw 1-1 or 0-0 (context only). Palace's leaky defence (11 GA, worst at home) makes a Forest goal likely, and Forest's makeshift back line (Milenkovic out) gives Palace a route back. That makes 1-1 the natural score, with 0-0 and 0-1 as the alternatives.",
+  "risks": "Palace's defensive record (11 conceded, Henderson, Riad and Tomiyasu out, Disasi suspended) could hand Forest a 0-1 or 1-2 win, which Sutton and the Racing Post both lean towards. Palace's home games have also been high-scoring (1-4, 2-3), against the under-2.5 market.",
+  "sources": [
+   "https://theanalyst.com/articles/premier-league-match-predictions",
+   "https://eng.pressbee.net/show4916050.html",
+   "https://www.compare.bet/news/crystal-palace-vs-nottingham-forest",
+   "https://www.racingpost.com/sport/football-tips/premier-league/crystal-palace-vs-nottingham-forest-predictions-betting-tips-and-odds-amBLY0V83dIq/",
+   "https://www.racingpost.com/sport/football-tips/premier-league/crystal-palace-vs-nottingham-forest-predictions-team-news-odds-betting-tips-bet-builder-aQzey9B1hkRv/",
+   "https://www.sportytrader.com/en/betting-tips/crystal-palace-nottingham-forest-378043/",
+   "https://www.freetips.com/football/english-premier-league/crystal-palace-vs-nottingham-forest-betting-tips-20261009-0008/",
+   "https://www.sportsmole.co.uk/football/crystal-palace/preview/crystal-palace-vs-nottm-forest-prediction-team-news-lineups_606578.html",
+   "https://www.sportsmole.co.uk/football/crystal-palace/predicted-lineups/sarr-to-replace-pino-crystal-palace-predicted-xi-vs-forest_606579.html",
+   "https://starting11.com/fixtures/crystal-palace-vs-nottingham-forest",
+   "https://www.fantasyfootballscout.co.uk/2026/09/18/the-scout-squad-our-top-picks-for-fpl-gameweek-5-3",
+   "https://www.squawka.com/en/features/premier-league-xg-table/",
+   "https://sports.yahoo.com/articles/suttons-predictions-v-starsailor-frontman-204653732.html",
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/"
+  ]
+ }
 ]

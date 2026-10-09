@@ -1,75 +1,113 @@
 [
-  {
-    "home": "Liverpool",
-    "away": "Manchester City",
-    "kickoff": "2026-10-11 16:30 UK",
-    "opta": {"h": 34.6, "d": 24.7, "a": 40.7, "source": "The Analyst Liverpool vs Man City preview (Matchday 6, Oct 2026), 10,000 sims; echoed by beIN Sports 'The Numbers Game' 9 Oct 2026. NOTE: the brief's lead of 'Man City 29.8%' looks misattributed; 29.8% is Coventry's Opta figure v Newcastle."},
-    "odds": {"h": 2.70, "d": 3.60, "a": 2.45, "source": "Paddy Power via Racing Post: Liverpool 17/10, Draw 13/5, Man City 29/20 (de-vigged approx L 35 / D 26 / C 39). Football365: Liverpool 8/5, Draw 11/4, City 6/4. O/U 2.5 quoted in one preview: Over 1.54 / Under 2.40 (~62% over implied)."},
-    "cs_odds_top3": null,
-    "team_news": "Liverpool (Andoni Iraola): Alexander Isak (thigh, Sweden) and Cody Gakpo (ankle, Netherlands) reported ruled out by Iraola after international duty (earlier previews had them as late-decision doubts). Hugo Ekitike, Conor Bradley and Giovanni Leoni also sidelined. Likely front line built around Barcola centrally with Victor Munoz and Ngumoha/Wirtz; RotoWire pre-news XI: Alisson; Araujo, Gomez, Van Dijk, Kerkez; Mac Allister, Szoboszlai; Munoz, Wirtz, Barcola. Man City (Enzo Maresca): Phil Foden suspended; Haaland limped off for Norway v Portugal but trained Thursday and Maresca says he is ready; Cherki expected at No.10; Semenyo expected on the left if ankle clears.",
-    "form_notes": "City 5W from 5 (13-5), top on 15 pts, but margins narrow (1-0, 1-0, 2-1) apart from 4-1 at Palace and a 5-3 v Sunderland; conceded in 3 of 5. Liverpool unbeaten W2 D3 (7-4), 6th on 9 pts; draws 2-2 at Newcastle, 2-2 v Forest, 0-0 v Fulham; home record D2 (no home win yet). Iraola's Liverpool hard to beat; first Liverpool-City PL meeting without Klopp or Guardiola since 2015.",
-    "xg_notes": "Per ats.io 5-game table: City xG 10.50 / xGA 7.18 (overperforming: 13 GF); Liverpool xG 8.34 / xGA 6.94 (7 GF). xG difference per game: City +0.66, Liverpool +0.28. Haaland scored in all 5 league games, 10 of 20 shots on target (RotoWire). Liverpool's xG likely depressed further by Isak/Gakpo/Ekitike absences.",
-    "pundits": "Chris Sutton (BBC): Liverpool 1-2 Man City. RotoWire: 1-1. Another preview: 2-2. FreeTips: value on the draw at 11/4. ats.io: under 2.5. Jones Knows (Sky) column for this fixture not found.",
-    "my_probs": {"h": 32, "d": 30, "a": 38},
-    "primary_score": "1-2",
-    "alt_scores": ["1-1", "0-1"],
-    "confidence": "Low",
-    "btts": "Yes",
-    "over25": "Yes",
-    "reasoning": "Opta (34.6/24.7/40.7) and the market (~35/26/39) both make City slight favourites, and City's xG difference (+0.66/game) is stronger than Liverpool's (+0.28). Liverpool losing Isak and Gakpo on top of Ekitike removes most of their centre-forward options, while City lose only Foden and have Haaland declared fit. I upweight the draw to 30% given the 32% season draw rate, Liverpool's three draws and that City's results are flattered by their xG. A rough Poisson (Liverpool ~1.3, City ~1.45 expected goals) makes 1-1 the single most likely score, but City win is the most likely result, and 1-2 fits Liverpool scoring in 4 of 5 and City conceding in 3 of 5.",
-    "risks": "Haaland is not fully fit after limping off on international duty, and Liverpool's home crowd could make this a cagey 1-1 or 0-0. The injury reports conflict: earlier previews had Isak starting, so if he plays, Liverpool's chances go up.",
-    "sources": [
-      "https://theanalyst.com/articles/liverpool-vs-man-city-prediction-premier-league-10-2026",
-      "https://beinsports.com/en-au/football/premier-league/articles/the-numbers-game-man-city-take-perfect-record-to-anfield-following-tumultuous-break-2026-10-09",
-      "https://theanalyst.com/articles/premier-league-match-predictions",
-      "https://www.racingpost.com/sport/football-tips/premier-league/liverpool-vs-manchester-city-predictions-team-news-odds-betting-tips-bet-builder-ahevK4c4SJyL/",
-      "https://www.football365.com/match-preview/liverpool-v-man-city-prediction-preview",
-      "https://www.rotowire.com/soccer/article/liverpool-vs-manchester-city-prediction-predicted-lineups-team-news-139572",
-      "https://www.soccernews.com/isak-and-gakpo-both-doubtful-for-liverpool-man-city-clash/405952/",
-      "https://www.thesportsbank.net/football/liverpool/xi-gakpo-isak/",
-      "https://www.teamtalk.com/manchester-city/enzo-maresca-erling-haaland-fitness-liverpool-clash-city-win-prediction",
-      "https://ats.io/soccer/epl/liverpool-vs-man-city-prediction-10-11-26/",
-      "https://www.freetips.com/football/english-premier-league/liverpool-vs-man-city-tips-predictions-20261009-0005/",
-      "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
-      "https://www.thestatszone.com/liverpool-vs-man-city-preview-team-news-prediction-227765"
-    ]
+ {
+  "home": "Liverpool",
+  "away": "Manchester City",
+  "kickoff": "2026-10-11 16:30 UK",
+  "opta": {
+   "h": 34.6,
+   "d": 24.7,
+   "a": 40.7,
+   "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously The Analyst Liverpool vs Man City preview (Matchday 6, Oct 2026), 10,000 sims; echoed by beIN Sports 'The Numbers Game' 9 Oct 2026. NOTE: the brief's lead of 'Man City 29.8%' looks misattributed; 29.8% is Coventry's Opta figure v Newcastle."
   },
-  {
-    "home": "Coventry City",
-    "away": "Newcastle United",
-    "kickoff": "2026-10-12 20:00 UK",
-    "opta": {"h": 29.8, "d": 25.4, "a": 44.8, "source": "The Analyst Matchday 6 Opta supercomputer picks (published 8 Oct 2026), as summarised by search: Newcastle 44.8%, Coventry 29.8%. Draw not shown in the snippet; 25.4% is 100 minus the other two. A follow-up search could not independently re-confirm the figure."},
-    "odds": {"h": 3.40, "d": 3.60, "a": 2.05, "source": "UK preview prices: Coventry 12/5, Draw 13/5, Newcastle 21/20 (de-vigged approx 28 / 26 / 46). DraftKings: Coventry +230, Draw +255, Newcastle +110. Squawka market: Newcastle 46%, draw 27%. Over 2.5 quoted around evens or slightly shorter."},
-    "cs_odds_top3": ["0-1 Newcastle @ 11.0 (+1000, BetUS)", "1-2 Newcastle @ 10.0 (+900, BetUS)", "1-0 Coventry @ 15.0 (+1400, BetUS)"],
-    "team_news": "Coventry: Taiwo Awoniyi suspended (red card v Brighton); Haji Wright injured (expected back later in October); Aurele Amenda, Josh Eccles (calf), Luke Woolfenden and Kaine Kesler-Hayden out; Milan van Ewijk back. Predicted XI (3-4-2-1): Rushworth; Pinnock, Thomas, Mfuni; van Ewijk, Onyeka, Grimes, Dasilva; Rudoni, Tchaouna/Mason-Clark; Thomas-Asante. Newcastle (reported as managed by Jaissle per LiveScore): Anthony Elanga (thigh) doubtful or out, depending on the source; Jacob Ramsey listed injured; Joelinton and Nico Gonzalez reported fit (Gonzalez cleared concussion protocol). Predicted XI (4-2-3-1): Hornicek; Dedic, Thiaw, Botman, Hall; Gonzalez, Miley; Murphy, Fernandez-Pardo, Barnes; Wissa.",
-    "form_notes": "Coventry (promoted) 18th, W1 L4, 1-10: lost 0-3 at Arsenal, 0-1 v Hull, 0-1 at City, 0-5 v Brighton, then won 1-0 at Forest in MW5. BTTS in none of their 5 games and only one goal scored, though four of the five opponents were strong. Newcastle 9th, W2 D2 L1, 9-9: 2-2 v Liverpool, 2-0 at Spurs, 2-2 v Bournemouth, 1-4 at Leeds, 2-1 v Hull. Four of their 5 games went over 2.5 goals, and they have one clean sheet.",
-    "xg_notes": "OddAlerts xG table (5 games): Coventry xG 4.18 (0.84/game; 1 goal = heavy underperformance) and xGA 8.47; Newcastle xG 5.22 (1.04/game, while scoring 9 = overperformance) and xGA 9.92 (about 2/game, among the worst). On xG difference per game Newcastle (-0.94) are no better than Coventry (-0.86), and Coventry faced a much tougher schedule. Shots over the last 10 games (Gambling.com): Coventry 12.6 shots / 4.2 on target, Newcastle 12.7 / 4.5.",
-    "pundits": "Chris Sutton (BBC): 1-1. RotoWire: 1-1. FreeSuperTips: 1-1. LiveScore: 1-1. Footballpredictions.com: 2-2. WhoScored: 0-2 (away win, under 2.5). Onside model: 1-2. Stats Insider: Newcastle 46.5%, best bet Under 2.5. Squawka: Newcastle win. Jones Knows not found.",
-    "my_probs": {"h": 28, "d": 31, "a": 41},
-    "primary_score": "0-1",
-    "alt_scores": ["1-1", "0-2"],
-    "confidence": "Low",
-    "btts": "No",
-    "over25": "No",
-    "reasoning": "Opta (29.8/25.4/44.8) and the market (~28/26/46) favour Newcastle, but their underlying numbers are poor: about 1.0 xG for and 2.0 xGA per game, and their 9 goals well outstrip 5.2 xG. Coventry's xG is not much worse after a far harder schedule, so I trim Newcastle and push the draw to 31%, in line with the 32% season rate. I do not expect a heavy defeat for the promoted side. Coventry are missing both main forwards (Awoniyi suspended, Wright injured) and have scored once in five games, so a low-scoring Newcastle win is the most likely result. Rough expected goals of Coventry ~1.0 and Newcastle ~1.35 make 0-1 and 1-1 almost equally likely; 0-1 is the pick consistent with the most likely result.",
-    "risks": "If the panel is short on draws, this is my preferred one to flip: 1-1 is near co-modal, and the consensus pick of Sutton, RotoWire and LiveScore. Coventry's xG suggests their finishing has to improve at some point, and Newcastle's leaky defence could give them the chance.",
-    "sources": [
-      "https://theanalyst.com/articles/premier-league-match-predictions",
-      "https://www.statsinsider.com.au/news/coventry-vs-newcastle-prediction-and-tips-13-october-2026",
-      "https://www.squawka.com/en/news/coventry-vs-newcastle-predictions-betting-tips-12-10-26/",
-      "https://www.squawka.com/us/news/premier-league/match-preview-coventry-city-vs-newcastle-12-10-26-premier-league/",
-      "https://www.rotowire.com/soccer/article/coventry-city-vs-newcastle-prediction-predicted-lineups-team-news-139813",
-      "https://www.thestatszone.com/coventry-vs-newcastle-preview-team-news-prediction-227771",
-      "https://www.vavel.com/en/football/2026/10/09/premier-league/1274500-newcastle-vs-coventry-preview.html",
-      "https://www.livescore.com/en/news/football/premier-league/newcastle-united-predicted-xi-vs-coventry-decisions-for-jaissle-as-magpies-welcome-players-back-from-injury-newcastle-toons/",
-      "https://www.livescore.com/en/news/football/premier-league/predictions/coventry-newcastle-predictions-premier-league/",
-      "https://nufcblog.co.uk/chris-sutton-makes-coventry-vs-newcastle-prediction-after-five-wrong-calls-42449",
-      "https://www.whoscored.com/matches/1983595/preview/england-premier-league-2026-2027-coventry-newcastle",
-      "https://www.oddalerts.com/xg/premier-league",
-      "https://www.gambling.com/betbuilderai/leagues/match/coventry-vs-newcastle-1557420",
-      "https://www.betus.com.pa/sportsbook/england-premier-league/props/coventry-vs-newcastle/",
-      "https://onsidearena.com/predictions/coventry-vs-newcastle",
-      "https://www.freesupertips.com/predictions/coventry-vs-newcastle-predictions-betting-tips-match-previews/"
-    ]
-  }
+  "odds": {
+   "h": 2.7,
+   "d": 3.6,
+   "a": 2.45,
+   "source": "Paddy Power via Racing Post: Liverpool 17/10, Draw 13/5, Man City 29/20 (de-vigged approx L 35 / D 26 / C 39). Football365: Liverpool 8/5, Draw 11/4, City 6/4. O/U 2.5 quoted in one preview: Over 1.54 / Under 2.40 (~62% over implied)."
+  },
+  "cs_odds_top3": null,
+  "team_news": "Liverpool (Andoni Iraola): Alexander Isak (thigh, Sweden) and Cody Gakpo (ankle, Netherlands) reported ruled out by Iraola after international duty (earlier previews had them as late-decision doubts). Hugo Ekitike, Conor Bradley and Giovanni Leoni also sidelined. Likely front line built around Barcola centrally with Victor Munoz and Ngumoha/Wirtz; RotoWire pre-news XI: Alisson; Araujo, Gomez, Van Dijk, Kerkez; Mac Allister, Szoboszlai; Munoz, Wirtz, Barcola. Man City (Enzo Maresca): Phil Foden suspended; Haaland limped off for Norway v Portugal but trained Thursday and Maresca says he is ready; Cherki expected at No.10; Semenyo expected on the left if ankle clears.",
+  "form_notes": "City 5W from 5 (13-5), top on 15 pts, but margins narrow (1-0, 1-0, 2-1) apart from 4-1 at Palace and a 5-3 v Sunderland; conceded in 3 of 5. Liverpool unbeaten W2 D3 (7-4), 6th on 9 pts; draws 2-2 at Newcastle, 2-2 v Forest, 0-0 v Fulham; home record D2 (no home win yet). Iraola's Liverpool hard to beat; first Liverpool-City PL meeting without Klopp or Guardiola since 2015.",
+  "xg_notes": "Per ats.io 5-game table: City xG 10.50 / xGA 7.18 (overperforming: 13 GF); Liverpool xG 8.34 / xGA 6.94 (7 GF). xG difference per game: City +0.66, Liverpool +0.28. Haaland scored in all 5 league games, 10 of 20 shots on target (RotoWire). Liverpool's xG likely depressed further by Isak/Gakpo/Ekitike absences.",
+  "pundits": "Chris Sutton (BBC): Liverpool 1-2 Man City. RotoWire: 1-1. Another preview: 2-2. FreeTips: value on the draw at 11/4. ats.io: under 2.5. Jones Knows (Sky) column for this fixture not found.",
+  "my_probs": {
+   "h": 32,
+   "d": 30,
+   "a": 38
+  },
+  "primary_score": "1-2",
+  "alt_scores": [
+   "1-1",
+   "0-1"
+  ],
+  "confidence": "Low",
+  "btts": "Yes",
+  "over25": "Yes",
+  "reasoning": "Opta (34.6/24.7/40.7) and the market (~35/26/39) both make City slight favourites, and City's xG difference (+0.66/game) is stronger than Liverpool's (+0.28). Liverpool losing Isak and Gakpo on top of Ekitike removes most of their centre-forward options, while City lose only Foden and have Haaland declared fit. I upweight the draw to 30% given the 32% season draw rate, Liverpool's three draws and that City's results are flattered by their xG. A rough Poisson (Liverpool ~1.3, City ~1.45 expected goals) makes 1-1 the single most likely score, but City win is the most likely result, and 1-2 fits Liverpool scoring in 4 of 5 and City conceding in 3 of 5.",
+  "risks": "Haaland is not fully fit after limping off on international duty, and Liverpool's home crowd could make this a cagey 1-1 or 0-0. The injury reports conflict: earlier previews had Isak starting, so if he plays, Liverpool's chances go up.",
+  "sources": [
+   "https://theanalyst.com/articles/liverpool-vs-man-city-prediction-premier-league-10-2026",
+   "https://beinsports.com/en-au/football/premier-league/articles/the-numbers-game-man-city-take-perfect-record-to-anfield-following-tumultuous-break-2026-10-09",
+   "https://theanalyst.com/articles/premier-league-match-predictions",
+   "https://www.racingpost.com/sport/football-tips/premier-league/liverpool-vs-manchester-city-predictions-team-news-odds-betting-tips-bet-builder-ahevK4c4SJyL/",
+   "https://www.football365.com/match-preview/liverpool-v-man-city-prediction-preview",
+   "https://www.rotowire.com/soccer/article/liverpool-vs-manchester-city-prediction-predicted-lineups-team-news-139572",
+   "https://www.soccernews.com/isak-and-gakpo-both-doubtful-for-liverpool-man-city-clash/405952/",
+   "https://www.thesportsbank.net/football/liverpool/xi-gakpo-isak/",
+   "https://www.teamtalk.com/manchester-city/enzo-maresca-erling-haaland-fitness-liverpool-clash-city-win-prediction",
+   "https://ats.io/soccer/epl/liverpool-vs-man-city-prediction-10-11-26/",
+   "https://www.freetips.com/football/english-premier-league/liverpool-vs-man-city-tips-predictions-20261009-0005/",
+   "https://www.naijanews.com/2026/10/09/premier-league-matchday-6-fixtures-sutton-shearer-give-predictions/",
+   "https://www.thestatszone.com/liverpool-vs-man-city-preview-team-news-prediction-227765"
+  ]
+ },
+ {
+  "home": "Coventry City",
+  "away": "Newcastle United",
+  "kickoff": "2026-10-12 20:00 UK",
+  "opta": {
+   "h": 29.8,
+   "d": 25.4,
+   "a": 44.8,
+   "source": "Opta Analyst Matchday 6 graphic (user screenshot); previously The Analyst Matchday 6 Opta supercomputer picks (published 8 Oct 2026), as summarised by search: Newcastle 44.8%, Coventry 29.8%. Draw not shown in the snippet; 25.4% is 100 minus the other two. A follow-up search could not independently re-confirm the figure."
+  },
+  "odds": {
+   "h": 3.4,
+   "d": 3.6,
+   "a": 2.05,
+   "source": "UK preview prices: Coventry 12/5, Draw 13/5, Newcastle 21/20 (de-vigged approx 28 / 26 / 46). DraftKings: Coventry +230, Draw +255, Newcastle +110. Squawka market: Newcastle 46%, draw 27%. Over 2.5 quoted around evens or slightly shorter."
+  },
+  "cs_odds_top3": [
+   "0-1 Newcastle @ 11.0 (+1000, BetUS)",
+   "1-2 Newcastle @ 10.0 (+900, BetUS)",
+   "1-0 Coventry @ 15.0 (+1400, BetUS)"
+  ],
+  "team_news": "Coventry: Taiwo Awoniyi suspended (red card v Brighton); Haji Wright injured (expected back later in October); Aurele Amenda, Josh Eccles (calf), Luke Woolfenden and Kaine Kesler-Hayden out; Milan van Ewijk back. Predicted XI (3-4-2-1): Rushworth; Pinnock, Thomas, Mfuni; van Ewijk, Onyeka, Grimes, Dasilva; Rudoni, Tchaouna/Mason-Clark; Thomas-Asante. Newcastle (reported as managed by Jaissle per LiveScore): Anthony Elanga (thigh) doubtful or out, depending on the source; Jacob Ramsey listed injured; Joelinton and Nico Gonzalez reported fit (Gonzalez cleared concussion protocol). Predicted XI (4-2-3-1): Hornicek; Dedic, Thiaw, Botman, Hall; Gonzalez, Miley; Murphy, Fernandez-Pardo, Barnes; Wissa.",
+  "form_notes": "Coventry (promoted) 18th, W1 L4, 1-10: lost 0-3 at Arsenal, 0-1 v Hull, 0-1 at City, 0-5 v Brighton, then won 1-0 at Forest in MW5. BTTS in none of their 5 games and only one goal scored, though four of the five opponents were strong. Newcastle 9th, W2 D2 L1, 9-9: 2-2 v Liverpool, 2-0 at Spurs, 2-2 v Bournemouth, 1-4 at Leeds, 2-1 v Hull. Four of their 5 games went over 2.5 goals, and they have one clean sheet.",
+  "xg_notes": "OddAlerts xG table (5 games): Coventry xG 4.18 (0.84/game; 1 goal = heavy underperformance) and xGA 8.47; Newcastle xG 5.22 (1.04/game, while scoring 9 = overperformance) and xGA 9.92 (about 2/game, among the worst). On xG difference per game Newcastle (-0.94) are no better than Coventry (-0.86), and Coventry faced a much tougher schedule. Shots over the last 10 games (Gambling.com): Coventry 12.6 shots / 4.2 on target, Newcastle 12.7 / 4.5.",
+  "pundits": "Chris Sutton (BBC): 1-1. RotoWire: 1-1. FreeSuperTips: 1-1. LiveScore: 1-1. Footballpredictions.com: 2-2. WhoScored: 0-2 (away win, under 2.5). Onside model: 1-2. Stats Insider: Newcastle 46.5%, best bet Under 2.5. Squawka: Newcastle win. Jones Knows not found.",
+  "my_probs": {
+   "h": 28,
+   "d": 31,
+   "a": 41
+  },
+  "primary_score": "0-1",
+  "alt_scores": [
+   "1-1",
+   "0-2"
+  ],
+  "confidence": "Low",
+  "btts": "No",
+  "over25": "No",
+  "reasoning": "Opta (29.8/25.4/44.8) and the market (~28/26/46) favour Newcastle, but their underlying numbers are poor: about 1.0 xG for and 2.0 xGA per game, and their 9 goals well outstrip 5.2 xG. Coventry's xG is not much worse after a far harder schedule, so I trim Newcastle and push the draw to 31%, in line with the 32% season rate. I do not expect a heavy defeat for the promoted side. Coventry are missing both main forwards (Awoniyi suspended, Wright injured) and have scored once in five games, so a low-scoring Newcastle win is the most likely result. Rough expected goals of Coventry ~1.0 and Newcastle ~1.35 make 0-1 and 1-1 almost equally likely; 0-1 is the pick consistent with the most likely result.",
+  "risks": "If the panel is short on draws, this is my preferred one to flip: 1-1 is near co-modal, and the consensus pick of Sutton, RotoWire and LiveScore. Coventry's xG suggests their finishing has to improve at some point, and Newcastle's leaky defence could give them the chance.",
+  "sources": [
+   "https://theanalyst.com/articles/premier-league-match-predictions",
+   "https://www.statsinsider.com.au/news/coventry-vs-newcastle-prediction-and-tips-13-october-2026",
+   "https://www.squawka.com/en/news/coventry-vs-newcastle-predictions-betting-tips-12-10-26/",
+   "https://www.squawka.com/us/news/premier-league/match-preview-coventry-city-vs-newcastle-12-10-26-premier-league/",
+   "https://www.rotowire.com/soccer/article/coventry-city-vs-newcastle-prediction-predicted-lineups-team-news-139813",
+   "https://www.thestatszone.com/coventry-vs-newcastle-preview-team-news-prediction-227771",
+   "https://www.vavel.com/en/football/2026/10/09/premier-league/1274500-newcastle-vs-coventry-preview.html",
+   "https://www.livescore.com/en/news/football/premier-league/newcastle-united-predicted-xi-vs-coventry-decisions-for-jaissle-as-magpies-welcome-players-back-from-injury-newcastle-toons/",
+   "https://www.livescore.com/en/news/football/premier-league/predictions/coventry-newcastle-predictions-premier-league/",
+   "https://nufcblog.co.uk/chris-sutton-makes-coventry-vs-newcastle-prediction-after-five-wrong-calls-42449",
+   "https://www.whoscored.com/matches/1983595/preview/england-premier-league-2026-2027-coventry-newcastle",
+   "https://www.oddalerts.com/xg/premier-league",
+   "https://www.gambling.com/betbuilderai/leagues/match/coventry-vs-newcastle-1557420",
+   "https://www.betus.com.pa/sportsbook/england-premier-league/props/coventry-vs-newcastle/",
+   "https://onsidearena.com/predictions/coventry-vs-newcastle",
+   "https://www.freesupertips.com/predictions/coventry-vs-newcastle-predictions-betting-tips-match-previews/"
+  ]
+ }
 ]

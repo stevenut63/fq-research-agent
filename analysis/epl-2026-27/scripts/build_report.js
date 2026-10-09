@@ -88,7 +88,7 @@ children.push(bullet([b('Method 1 (highest probability): '), run('the predicted 
 children.push(bullet([b('Method 2 (40% threshold): '), run('a team is predicted to win only if its win probability is 40% or more; if neither team reaches 40%, the prediction is a draw.')]));
 children.push(bullet([b('Brier score '), run('(reported where possible) measures the quality of the probabilities themselves, not just the pick; 0 is perfect and lower is better.')]));
 children.push(h2('Limitations'));
-children.push(bullet('This environment\'s network policy blocked direct access to theanalyst.com, premierleague.com, the Wayback Machine and most news sites. All Opta figures were obtained through search-engine summaries of those pages rather than the pages themselves, so transcription errors are possible.'));
+children.push(bullet('This environment\'s network policy blocked direct access to theanalyst.com, premierleague.com, the Wayback Machine and most news sites. All Opta figures were obtained through search-engine summaries of those pages rather than the pages themselves, so transcription errors are possible. As a check, the same search-based method was used to collect Opta\'s Matchweek 6 figures before the official Opta graphic was available: 29 of the 30 figures matched the graphic exactly, and the one difference was a derived draw that was out by 0.1 points. This gives reasonable confidence in the Matchweek 1 to 5 figures.'));
 children.push(bullet(`Opta figures were confirmed for 28 of 50 matches (${combined.rows.filter((r) => r.status === 'VERIFIED').length} with all three figures published; the rest have the draw derived as 100 minus the two win figures). The other 22 could not be found and were not estimated.`));
 children.push(bullet('One figure (Bournemouth v Liverpool, 31.6 / 24.2 / 44.2) comes from a single translated source and the same three numbers were also attributed to an unrelated match elsewhere. Excluding it changes the verified results to 14/27 (52%) on Method 1 and 16/27 (59%) on Method 2.'));
 
@@ -154,6 +154,21 @@ children.push(table(
   [2838, 1700, 900, 900, 1800, 1500]));
 children.push(p('', { after: 60 }));
 children.push(p(`Draws called: 3 of 10. Model expected goals and source-by-source probabilities are in the appendix.`, { italics: true, color: GREY, size: 18 }));
+children.push(h2('Our calls against Opta\'s'));
+children.push(p('Opta\'s figures below are taken from the official Opta Analyst Matchday 6 graphic. Applying both scoring methods to them lets the two forecasts be tracked side by side once the results are in.'));
+const optaCall = (o, m) => {
+  const [h, d, a] = o;
+  if (m === 1) return h >= d && h >= a ? 'H' : a >= d ? 'A' : 'D';
+  return Math.max(h, a) >= 0.40 ? (h >= a ? 'H' : 'A') : 'D';
+};
+children.push(table(['Fixture', 'Opta H / D / A', 'Opta M1', 'Opta M2', 'Our call', 'Same?'],
+  gw6.map((g) => {
+    const o = g.src.opta, ours = g.call, m2 = optaCall(o, 2);
+    return [`${short(g.home)} v ${short(g.away)}`, o.map((x) => (100 * x).toFixed(1)).join(' / '), RES[optaCall(o, 1)], RES[m2],
+      { t: `${RES[ours]} ${g.score}`, bold: true }, { t: ours === m2 ? 'Yes' : 'No', fill: ours === m2 ? GREEN : RED }];
+  }), [2838, 1800, 1000, 1000, 1700, 1300]));
+children.push(p('', { after: 60 }));
+children.push(p('Opta\'s Method 1 calls no draws and its Method 2 calls one (Crystal Palace v Nottingham Forest). Our forecast differs from Opta\'s Method 2 in two matches, Ipswich v Fulham and Aston Villa v Brentford. In both, Opta makes the home side clear favourites (45% and 48%) while the betting market narrowly prefers the away side. Our blend lands below 40% for the home side in both, so we call draws. These two matches will be the clearest test of whether Opta\'s home lean or the market\'s view is right.'));
 children.push(h2('Fixture notes'));
 const notes = {
   'Arsenal': 'All four sources agree Arsenal are clear favourites (60 to 69%). Leeds are unbeaten and have conceded three in five, which favours a tight 1-0 over a rout. Saliba\'s fitness is disputed.',
@@ -172,7 +187,7 @@ gw6.forEach((g) => children.push(bullet([b(`${short(g.home)} ${g.score} ${short(
 // ---------- 6. Next steps ----------
 children.push(h1('6. Recommendations'));
 children.push(bullet('To close the Opta gap properly, allow theanalyst.com and web.archive.org in the environment\'s network settings; archived snapshots of each week\'s predictions page would give exact figures for all 50 matches.'));
-children.push(bullet('From Matchweek 6 onwards, capture Opta\'s figures each week before the page is overwritten. This turns the comparison into a clean, prospective test.'));
+children.push(bullet('Keep capturing Opta\'s figures each week before the page is overwritten, as has now been done for Matchweek 6 (work/opta_mw/mw6.csv). This turns the comparison into a clean, forward-looking test.'));
 children.push(bullet('Judge predictors on Brier score as well as hit rate. Hit rates over a few dozen matches are dominated by luck; probability quality separates good models more quickly.'));
 
 // ---------- Appendix ----------
