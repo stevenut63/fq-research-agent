@@ -1,0 +1,44 @@
+EPL 2026-27 table after MW5 (computed from verified results)
+Pos Team                        P  W  D  L  GF  GA  GD  Pts
+  1 Manchester City             5  5  0  0  13   5   8   15
+  2 Arsenal                     5  4  0  1   8   4   4   12
+  3 Brighton & Hove Albion      5  3  1  1  16   5  11   10
+  4 Brentford                   5  2  3  0  10   4   6    9
+  5 Leeds United                5  2  3  0   7   3   4    9
+  6 Liverpool                   5  2  3  0   7   4   3    9
+  7 Everton                     5  2  3  0   6   3   3    9
+  8 Hull City AFC               5  2  2  1   6   4   2    8
+  9 Newcastle United            5  2  2  1   9   9   0    8
+ 10 Chelsea                     5  2  1  2  10  12  -2    7
+ 11 Ipswich Town                5  2  0  3   7  11  -4    6
+ 12 Manchester United           5  1  2  2   8   8   0    5
+ 13 Nottingham Forest           5  1  2  2   4   5  -1    5
+ 14 Sunderland AFC              5  1  1  3   6  10  -4    4
+ 15 Crystal Palace              5  1  1  3   6  11  -5    4
+ 16 Aston Villa                 5  1  1  3   4   9  -5    4
+ 17 Bournemouth                 5  0  3  2   6   8  -2    3
+ 18 Coventry City               5  1  0  4   1  10  -9    3
+ 19 Fulham                      5  0  2  3   5   8  -3    2
+ 20 Tottenham Hotspur           5  0  2  3   2   8  -6    2
+
+Results by team (MW1-5):
+Manchester City: W 2-1 v Bournemouth (MW1); W 4-1 @ Crystal Palace (MW2); W 1-0 v Coventry City (MW3); W 1-0 @ Manchester United (MW4); W 5-3 v Sunderland AFC (MW5)
+Arsenal: W 3-0 v Coventry City (MW1); W 1-0 @ Aston Villa (MW2); W 2-1 v Chelsea (MW3); W 2-0 @ Sunderland AFC (MW4); L 0-3 @ Brighton & Hove Albion (MW5)
+Brighton & Hove Albion: W 4-0 v Aston Villa (MW1); L 3-4 @ Chelsea (MW2); D 1-1 v Leeds United (MW3); W 5-0 @ Coventry City (MW4); W 3-0 v Arsenal (MW5)
+Brentford: W 3-0 v Tottenham Hotspur (MW1); D 1-1 @ Leeds United (MW2); D 1-1 v Sunderland AFC (MW3); D 2-2 @ Bournemouth (MW4); W 3-0 v Chelsea (MW5)
+Leeds United: W 1-0 @ Nottingham Forest (MW1); D 1-1 v Brentford (MW2); D 1-1 @ Brighton & Hove Albion (MW3); W 4-1 v Newcastle United (MW4); D 0-0 v Crystal Palace (MW5)
+Liverpool: D 2-2 @ Newcastle United (MW1); D 2-2 v Nottingham Forest (MW2); W 2-0 @ Ipswich Town (MW3); D 0-0 v Fulham (MW4); W 1-0 @ Bournemouth (MW5)
+Everton: W 2-0 v Crystal Palace (MW1); D 1-1 @ Bournemouth (MW2); D 2-2 v Manchester United (MW3); D 0-0 @ Tottenham Hotspur (MW4); W 1-0 v Ipswich Town (MW5)
+Hull City AFC: W 2-0 v Manchester United (MW1); W 1-0 @ Coventry City (MW2); D 0-0 v Aston Villa (MW3); D 2-2 @ Chelsea (MW4); L 1-2 @ Newcastle United (MW5)
+Newcastle United: D 2-2 v Liverpool (MW1); W 2-0 @ Tottenham Hotspur (MW2); D 2-2 v Bournemouth (MW3); L 1-4 @ Leeds United (MW4); W 2-1 v Hull City AFC (MW5)
+Chelsea: W 3-2 @ Fulham (MW1); W 4-3 v Brighton & Hove Albion (MW2); L 1-2 @ Arsenal (MW3); D 2-2 v Hull City AFC (MW4); L 0-3 @ Brentford (MW5)
+Ipswich Town: W 2-1 v Sunderland AFC (MW1); L 2-5 @ Manchester United (MW2); L 0-2 v Liverpool (MW3); W 3-2 @ Crystal Palace (MW4); L 0-1 @ Everton (MW5)
+Manchester United: L 0-2 @ Hull City AFC (MW1); W 5-2 v Ipswich Town (MW2); D 2-2 @ Everton (MW3); L 0-1 v Manchester City (MW4); D 1-1 @ Fulham (MW5)
+Nottingham Forest: L 0-1 v Leeds United (MW1); D 2-2 @ Liverpool (MW2); D 0-0 v Tottenham Hotspur (MW3); W 2-1 @ Aston Villa (MW4); L 0-1 v Coventry City (MW5)
+Sunderland AFC: L 1-2 @ Ipswich Town (MW1); W 1-0 v Fulham (MW2); D 1-1 @ Brentford (MW3); L 0-2 v Arsenal (MW4); L 3-5 @ Manchester City (MW5)
+Crystal Palace: L 0-2 @ Everton (MW1); L 1-4 v Manchester City (MW2); W 3-2 @ Fulham (MW3); L 2-3 v Ipswich Town (MW4); D 0-0 @ Leeds United (MW5)
+Aston Villa: L 0-4 @ Brighton & Hove Albion (MW1); L 0-1 v Arsenal (MW2); D 0-0 @ Hull City AFC (MW3); L 1-2 v Nottingham Forest (MW4); W 3-2 @ Tottenham Hotspur (MW5)
+Bournemouth: L 1-2 @ Manchester City (MW1); D 1-1 v Everton (MW2); D 2-2 @ Newcastle United (MW3); D 2-2 v Brentford (MW4); L 0-1 v Liverpool (MW5)
+Coventry City: L 0-3 @ Arsenal (MW1); L 0-1 v Hull City AFC (MW2); L 0-1 @ Manchester City (MW3); L 0-5 v Brighton & Hove Albion (MW4); W 1-0 @ Nottingham Forest (MW5)
+Fulham: L 2-3 v Chelsea (MW1); L 0-1 @ Sunderland AFC (MW2); L 2-3 v Crystal Palace (MW3); D 0-0 @ Liverpool (MW4); D 1-1 v Manchester United (MW5)
+Tottenham Hotspur: L 0-3 @ Brentford (MW1); L 0-2 v Newcastle United (MW2); D 0-0 @ Nottingham Forest (MW3); D 0-0 v Everton (MW4); L 2-3 v Aston Villa (MW5)
