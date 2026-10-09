@@ -1,0 +1,7 @@
+{
+ "Liverpool v Manchester City": {
+  "home_xg_mult": 0.85,
+  "away_xg_mult": 1.0,
+  "reason": "Isak, Gakpo and Ekitike all unavailable (Iraola press conference, 9 Oct 2026): Liverpool's three main forwards out. The results-only model cannot see this, so Liverpool's expected goals in the model are cut by 15%. Applied to the model input only; the market, Opta and analyst inputs already reflect the news."
+ }
+}

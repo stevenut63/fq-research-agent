@@ -15,7 +15,7 @@ def pts(px, py, ax, ay):
     ci = abs((ax - ay) - (px - py)) + abs((px + py) - (ax + ay)) / 2
     return 1.5 if ci < 1.5 else 1.0
 def adj_matrix(g, f):
-    M = np.array(f['M']); M = M / M.sum()
+    M = np.array(g.get('M_model') or f['M']); M = M / M.sum()
     reg = {'H': np.tril(np.ones_like(M), -1), 'D': np.eye(len(M)), 'A': np.triu(np.ones_like(M), 1)}
     return sum(M * reg[k] / (M * reg[k]).sum() * p for k, p in zip('HDA', g['blend']))
 def ev(A, pick):
