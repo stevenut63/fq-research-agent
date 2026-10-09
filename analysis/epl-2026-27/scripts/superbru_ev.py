@@ -5,7 +5,7 @@ import json, sys
 import numpy as np
 S = sys.argv[1]
 fin = json.load(open(f'{S}/gw6_final.json')); dc = json.load(open(f'{S}/dc_model.json'))
-user = ['2-0', '2-2', '2-1', '2-1', '1-2', '2-1', '1-1', '0-1', '1-2', '0-2']
+user = ['2-0', '2-1', '2-1', '1-1', '1-2', '2-1', '1-1', '0-1', '1-2', '0-2']  # revised Superbru picks, 10 Oct 09:52 AEDT
 order = ['Arsenal', 'Aston Villa', 'Chelsea', 'Ipswich Town', 'Sunderland AFC', 'Manchester United', 'Crystal Palace', 'Hull City AFC', 'Liverpool', 'Coventry City']
 byhome = {g['home']: (g, f) for g, f in zip(fin, dc['forecast'])}
 res = lambda x, y: 'H' if x > y else 'A' if x < y else 'D'
